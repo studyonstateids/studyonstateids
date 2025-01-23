@@ -1,0 +1,547 @@
+id;text
+Q31;Wie wichtig schätzen Sie Erkennungs- und Reaktionssysteme ein?
+Q31_R1;Unwesentlich
+Q31_R2;Neutral
+Q31_R3;Wesentlich
+Q31_R4;Sehr wesentlich
+Q31_R5;Keine Angabe
+Q32;Denken Sie der Einsatz eines solchen Systems steigert die Sicherheit?
+Q32_R1;Unwesentlich
+Q32_R2;Neutral
+Q32_R3;Wesentlich
+Q32_R4;Sehr wesentlich
+Q32_R5;Keine Angabe
+Q33;Durch den Betrieb von Erkennungs- und Reaktionssystemen hat meine Organisation einen Nutzen erwirtschaftet.
+Q33_R1;Unwesentlich
+Q33_R2;Neutral
+Q33_R3;Wesentlich
+Q33_R4;Sehr wesentlich
+Q33_R5;Setzen wir nicht ein
+Q33_R6;Keine Angabe
+Q34Copy;Wie würden Sie sich fühlen, wenn eine staatliche Stelle einen solchen Dienst für Ihre Organisation betreibt?
+Q34Copy_R1;Sehr unsicher
+Q34Copy_R2;Unsicher
+Q34Copy_R3;Sicher
+Q34Copy_R4;Sehr sicher
+Q34Copy_R5;Keine Angabe
+Q34;Wie würden Sie sich fühlen, wenn eine kommerzielle Stelle im staatlichen Auftrag einen solchen Dienst für Ihre Organisation betreibt?
+Q34_R1;Sehr unsicher
+Q34_R2;Unsicher
+Q34_R3;Sicher
+Q34_R4;Sehr sicher
+Q34_R5;Keine Angabe
+Q35;Bitte beschreiben Sie warum:
+Q36;Ich vertraue einer staatlichen Stelle hinsichtlich
+Q36_1;Qualität des Betriebs
+Q36_2;Expertise im Bezug auf Cybersicherheit
+Q36_3;Einhaltung des Datenschutzes
+Q36_4;Einhaltung der vereinbarten Leistungen
+Q36_5;Nationale Zusammenarbeit
+Q36_6;Internationale Zusammenarbeit
+Q36_7;Andere (bitte ausführen)
+Q36_R1;Kaum
+Q36_R2;Neutral
+Q36_R3;Stark
+Q36_R4;Vollumfänglich
+Q36_R5;Keine Angabe
+Q36EXT;Andere (bitte ausführen)
+Q37;Wo soll der Betrieb der Erkennungs- und Reaktionssysteme angesiedelt sein:
+Q37_R1;Auf europäischer / EU Ebene
+Q37_R2;Staatlich (z.B. BMI)
+Q37_R3;Private Organisation im Auftrag und unter Kontrolle einer staatlichen Stelle
+Q37_R4;Verein, oder Verbund (z.B. CERT, Sektor-CERT)
+Q37_R5;Keine Angabe
+Q37_R-oth-;Sonstiges
+Q38;Um herauszufinden ob Sie nach wie vor aktiv an der Umfrage teilnehmen, selektieren Sie bitte "Sehr sicher":
+Q38_R1;Sehr unsicher
+Q38_R2;Unsicher
+Q38_R3;Sicher
+Q38_R4;Sehr sicher
+Q38_R5;Keine Angabe
+Q39;Fühlen Sie sich persönlich mehr überwacht, seitdem Ihre Organisation Erkennungs- und Reaktionssysteme einsetzt?
+Q39_R1;Ja
+Q39_R2;Nein
+Q39_R3;Setzen wir nicht ein
+Q39_R4;Keine Angabe
+Q40_1;Aus welchem Grund denken Sie, könnte der Betrieb einer solchen Lösung von staatlichem Interesse sein?
+Q40_1_RY;Eindämmung von Schäden auf die Wirtschaft
+Q40_1_RY;Bessere Reaktion im Krisenfall
+Q40_1_RY;Aufzeichnungen im kriminalrechtlichen Interesse (Veruntreuung, Korruption, Steuerhinterziehung)
+Q40_1_RY;Eindämmung von Spionageaktivitäten
+Q40_1_RY;Keine Angabe
+Q40_1_RY;Sonstiges
+Q02;Altersgruppe
+Q02_R1;< 18
+Q02_R2;18-25
+Q02_R3;26-35
+Q02_R4;36-45
+Q02_R5;46-55
+Q02_R6;56-65
+Q02_R7;> 65
+Q02_R8;Keine Angabe
+Q04_1;Hat Ihre Ausbildung einen Bezug zu einem oder mehreren der nachfolgenden Bereiche?
+Q04_1_RY;Technik
+Q04_1_RY;Recht
+Q04_1_RY;Informatik
+Q04_1_RY;IT-Security
+Q04_1_RY;Soziologie
+Q04_1_RY;Keine Angabe
+Q05;In welchem Land ist Ihre Organisation hauptansässig? (Es handelt sich um eine englische Liste.)
+Q05_RAO01;Afghanistan
+Q05_RAO02;Albania
+Q05_RAO03;Algeria
+Q05_RAO04;Andorra
+Q05_RAO05;Angola
+Q05_RAO06;Antigua and Barbuda
+Q05_RAO07;Argentina
+Q05_RAO08;Armenia
+Q05_RAO09;Australia
+Q05_RAO10;Austria
+Q05_RAO11;Azerbaijan
+Q05_RAO12;Bahamas
+Q05_RAO13;Bahrain
+Q05_RAO14;Bangladesh
+Q05_RAO15;Barbados
+Q05_RAO16;Belarus
+Q05_RAO17;Belgium
+Q05_RAO18;Belize
+Q05_RAO19;Benin
+Q05_RAO20;Bhutan
+Q05_RAO21;Bolivia
+Q05_RAO22;Bosnia and Herzegovina
+Q05_RAO23;Botswana
+Q05_RAO24;Brazil
+Q05_RAO25;Brunei
+Q05_RAO26;Bulgaria
+Q05_RAO27;Burkina Faso
+Q05_RAO28;Burundi
+Q05_RAO29;Cambodia
+Q05_RAO30;Cameroon
+Q05_RAO31;Canada
+Q05_RAO32;Cape Verde (Cabo Verde)
+Q05_RAO33;Central African Republic
+Q05_RAO34;Chad
+Q05_RAO35;Chile
+Q05_RAO36;China
+Q05_RAO37;Colombia
+Q05_RAO38;Comoros
+Q05_RAO39;Congo, Republic of the
+Q05_RAO40;Congo, Democratic Republic of the
+Q05_RAO41;Costa Rica
+Q05_RAO42;Côte d'Ivoire
+Q05_RAO43;Croatia
+Q05_RAO44;Cuba
+Q05_RAO45;Cyprus
+Q05_RAO46;Czech Republic
+Q05_RAO47;Denmark
+Q05_RAO48;Djibouti
+Q05_RAO49;Dominica
+Q05_RAO50;Dominican Republic
+Q05_RAO51;Ecuador
+Q05_RAO52;Egypt
+Q05_RAO53;El Salvador
+Q05_RAO54;Equatorial Guinea
+Q05_RAO55;Eritrea
+Q05_RAO56;Estonia
+Q05_RAO57;Eswatini
+Q05_RAO58;Ethiopia
+Q05_RAO59;Fiji
+Q05_RAO60;Finland
+Q05_RAO61;France
+Q05_RAO62;Gabon
+Q05_RAO63;Gambia
+Q05_RAO64;Georgia
+Q05_RAO65;Germany
+Q05_RAO66;Ghana
+Q05_RAO67;Greece
+Q05_RAO68;Grenada
+Q05_RAO69;Guatemala
+Q05_RAO70;Guinea
+Q05_RAO71;Guinea-Bissau
+Q05_RAO72;Guyana
+Q05_RAO73;Haiti
+Q05_RAO74;Honduras
+Q05_RAO75;Hungary
+Q05_RAO76;Iceland
+Q05_RAO77;India
+Q05_RAO78;Indonesia
+Q05_RAO79;Iran
+Q05_RAO80;Iraq
+Q05_RAO81;Ireland
+Q05_RAO82;Israel
+Q05_RAO83;Italy
+Q05_RAO84;Jamaica
+Q05_RAO85;Japan
+Q05_RAO86;Jordan
+Q05_RAO87;Kazakhstan
+Q05_RAO88;Kenya
+Q05_RAO89;Kiribati
+Q05_RAO90;Kosovo
+Q05_RAO91;Kuwait
+Q05_RAO92;Kyrgyzstan
+Q05_RAO93;Laos
+Q05_RAO94;Latvia
+Q05_RAO95;Lebanon
+Q05_RAO96;Lesotho
+Q05_RAO97;Liberia
+Q05_RAO98;Libya
+Q05_RAO99;Liechtenstein
+Q05_RAO100;Lithuania
+Q05_RAO101;Luxembourg
+Q05_RAO102;Madagascar
+Q05_RAO103;Malawi
+Q05_RAO104;Malaysia
+Q05_RAO105;Maldives
+Q05_RAO106;Mali
+Q05_RAO107;Malta
+Q05_RAO108;Marshall Islands
+Q05_RAO109;Mauritania
+Q05_RAO110;Mauritius
+Q05_RAO111;Mexico
+Q05_RAO112;Micronesia
+Q05_RAO113;Moldova
+Q05_RAO114;Monaco
+Q05_RAO115;Mongolia
+Q05_RAO116;Montenegro
+Q05_RAO117;Morocco
+Q05_RAO118;Mozambique
+Q05_RAO119;Myanmar
+Q05_RAO120;Namibia
+Q05_RAO121;Nauru
+Q05_RAO122;Nepal
+Q05_RAO123;Netherlands
+Q05_RAO124;New Zealand
+Q05_RAO125;Nicaragua
+Q05_RAO126;Niger
+Q05_RAO127;Nigeria
+Q05_RAO128;North Korea
+Q05_RAO129;North Macedonia
+Q05_RAO130;Norway
+Q05_RAO131;Oman
+Q05_RAO132;Pakistan
+Q05_RAO133;Palau
+Q05_RAO134;Panama
+Q05_RAO135;Papua New Guinea
+Q05_RAO136;Paraguay
+Q05_RAO137;Peru
+Q05_RAO138;Philippines
+Q05_RAO139;Poland
+Q05_RAO140;Portugal
+Q05_RAO141;Qatar
+Q05_RAO142;Romania
+Q05_RAO143;Russia
+Q05_RAO144;Rwanda
+Q05_RAO145;Saint Kitts and Nevis
+Q05_RAO146;Saint Lucia
+Q05_RAO147;Saint Vincent and the Grenadines
+Q05_RAO148;Samoa
+Q05_RAO149;San Marino
+Q05_RAO150;São Tomé and Príncipe
+Q05_RAO151;Saudi Arabia
+Q05_RAO152;Senegal
+Q05_RAO153;Serbia
+Q05_RAO154;Seychelles
+Q05_RAO155;Sierra Leone
+Q05_RAO156;Singapore
+Q05_RAO157;Slovakia
+Q05_RAO158;Slovenia
+Q05_RAO159;Solomon Islands
+Q05_RAO160;Somalia
+Q05_RAO161;South Africa
+Q05_RAO162;South Korea
+Q05_RAO163;South Sudan
+Q05_RAO164;Spain
+Q05_RAO165;Sri Lanka
+Q05_RAO166;Sudan
+Q05_RAO167;Suriname
+Q05_RAO168;Sweden
+Q05_RAO169;Switzerland
+Q05_RAO170;Syria
+Q05_RAO171;Tajikistan
+Q05_RAO172;Tanzania
+Q05_RAO173;Thailand
+Q05_RAO174;Timor-Leste
+Q05_RAO175;Togo
+Q05_RAO176;Tonga
+Q05_RAO177;Trinidad and Tobago
+Q05_RAO178;Tunisia
+Q05_RAO179;Turkey
+Q05_RAO180;Turkmenistan
+Q05_RAO181;Tuvalu
+Q05_RAO182;Uganda
+Q05_RAO183;Ukraine
+Q05_RAO184;United Arab Emirates
+Q05_RAO185;United Kingdom
+Q05_RAO186;United States
+Q05_RAO187;Uruguay
+Q05_RAO188;Uzbekistan
+Q05_RAO189;Vanuatu
+Q05_RAO190;Vatican City
+Q05_RAO191;Venezuela
+Q05_RAO192;Vietnam
+Q05_RAO193;Yemen
+Q05_RAO194;Zambia
+Q05_RAO195;Zimbabwe
+Q05_R-oth-;Sonstiges
+Q06;Welche Position haben Sie aktuell in Ihrer derzeitigen Organisation inne?
+Q06_R1;Geschäftsführung
+Q06_R2;Mitarbeiter:in mit Entscheidungsbefugnis im Bereich der IT-Sicherheit
+Q06_R3;Mitarbeiter:in
+Q06_R5;Keine Angabe
+Q06_R-oth-;Sonstiges
+Q07;Wie schätzen Sie ihre Kenntnisse im Bereich von Detektions- und Erkennungssystemen ein?
+Q07_R1;Keine Kenntnisse
+Q07_R2;Wenig sachkundig
+Q07_R3;Durchschnittlich sachkundig
+Q07_R4;Sachkundig
+Q07_R5;Experte
+Q07_R6;Keine Angabe
+Q08;Fällt ihre Organisation in einen der folgenden Bereiche?
+Q08_R1;Kritische Infrastruktur, wesentliche Einrichtungen, Betreiber wesentlicher Dienste
+Q08_R2;Wichtige Einrichtung nach NIS 2.0
+Q08_R3;Öffentliche Verwaltung und staatliche Organisationen
+Q08_R4;Nein
+Q08_R5;Keine Angabe
+Q09;Wie viele Personen arbeiten in Ihrer Organisation?
+Q09_R1;1
+Q09_R2;2 - 9
+Q09_R3;10 – 49
+Q09_R4;50 – 249
+Q09_R5;> 249
+Q09_R6;Keine Angabe
+Q10;In welcher Branche arbeiten Sie?
+Q10_R1;Agrarwirtschaft
+Q10_R2;Bau
+Q10_R3;Chemie & Rohstoffe
+Q10_R4;Dienstleistungen & Handwerk
+Q10_R5;E-Commerce
+Q10_R6;Energie & Umwelt
+Q10_R7;Finanzen, Versicherungen & Immobilien
+Q10_R8;Freizeit
+Q10_R9;Gesellschaft (Bildung, Forschung, Recht, ...)
+Q10_R10;Handel
+Q10_R11;Internet
+Q10_R12;Konsum & FMCG
+Q10_R13;Leben
+Q10_R14;Medien
+Q10_R15;Metall & Elektronik
+Q10_R16;Pharma & Gesundheit
+Q10_R17;Sport & Fitness
+Q10_R18;Schule
+Q10_R19;Telekommunikation und IT
+Q10_R20;Tourismus & Gastronomie
+Q10_R21;Verkehr & Logistik
+Q10_R22;Wirtschaft & Politik (Öffentliche Verwaltung, Verteidigung, …)
+Q10_R23;Keine Angabe
+Q10_R-oth-;Sonstiges
+Q22;Würde Ihre Organisation an einem staatlich zur Verfügung gestellten Erkennungs- und Reaktionssystem teilnehmen?
+Q22_R1;Ja
+Q22_R2;Nein
+Q22_R3;Weiß ich nicht
+Q22_R4;Keine Angabe
+Q22_R-oth-;Sonstiges
+Q23;Welche der folgenden Aktivitäten würde Ihre Organisation beziehen?
+Q23_1;Erkennung
+Q23_2;Reaktion
+Q23_R1;Vollständige Durchführung
+Q23_R2;Unterstützende Aktivitäten
+Q23_R3;Keine
+Q23_R4;Keine Angabe
+Q24;Bitte beschreiben Sie in eigenen Worten kurz, warum Ihre Organisation diese Dienste beziehen würde:
+Q25;Was erwartet sich Ihre Organisation von einem solchen System?
+Q25_1;Einen besseren inneren Austausch
+Q25_2;Einen besseren Überblick über die aktuelle Bedrohungslage in der Branche und Branchenübergreifend
+Q25_3;Die zusätzliche externe Expertise
+Q25_4;Eine zusätzliche Kommunikationsplattform über welche ein rascher Austausch mit anderer, ebenfalls betroffener Organisation hergestellt werden kann
+Q25_5;Zugriff auf kostengünstige Threat Intelligence Feeds
+Q25_6;Sonstige (bitte ausführen)
+Q25_R1;Unerheblich
+Q25_R2;Wünschenswert
+Q25_R3;Sehr wichtig
+Q25EXT;Sonstige (bitte ausführen):
+Q26;Was wären die Rahmenbedingungen Ihrer Organisation, um teilzunehmen?
+Q26_1;Kostenersparnis zum aktuellen System
+Q26_2;Feedbackmöglichkeit, sowie das Mitwirken am System
+Q26_3;Bessere SLAs als bei der aktuell eingesetzten Lösung
+Q26_4;Hohe Systemverfügbarkeit
+Q26_5;Hohe System-Performance (z.B. Abdeckung aller Offices, sämtliche Bandbreiten, alle Endgeräte)
+Q26_6;Betreiber ist eine staatliche Stelle
+Q26_7;Betreiber ist eine private / kommerzielle Stelle
+Q26_8;Staatliche Kontrolle des Betreibers
+Q26_9;Die Möglichkeit bei Falschmeldungen oder verabsäumten Meldungen Ansprüche gegenüber dem Betreiber zu erheben
+Q26_10;Umfangreiche Vorauswertung und dadurch Reduzierung der Last meiner Mitarbeiter
+Q26_11;Die Kosten für eine solche Lösung werden überwiegend vom Staat übernommen
+Q26_12;Kontrolle über die gesammelten Daten und Kontrolle der Datenauswertung
+Q26_13;Erfüllung rechtlicher und vertraglicher Voraussetzungen
+Q26_14;Keine Notwendigkeit der Installation von Software auf Geräten bzw. Endpoints
+Q26_15;Daten werden nur netzwerkseitig am Netzwerkperimeter (vor der Unternehmens-Firewall) gesammelt
+Q26_16;System ist anerkannt und zertifiziert
+Q26_17;Daten verlassen unsere Organisation nicht
+Q26_18;Anonymisierung personenbezogener Daten
+Q26_19;Pseudonymisierung personenbezogener Daten
+Q26_20;Transparenz über sämtliche Aktivitäten
+Q26_21;Vollständiger Zugriff auf die im eigenen Netzwerk befindlichen Geräte
+Q26_22;Regelmäßige Sicherheitsprüfungen durch unabhängige Stellen
+Q26_23;Auditrecht (Einsicht auf die Systeme)
+Q26_25;Ich kann Soforthilfemaßnahmen vom Betreiber beziehen
+Q26_26;Ich kann tiefergehende Analysen vom Betreiber beziehen
+Q26_27;Sofortiger Zugriff auf alle Erkennungsdaten
+Q26_28;Sonstige (bitte Ausführen)
+Q26_R1;Unerheblich
+Q26_R2;Bevorzugt, kein Ausschlusskriterium
+Q26_R3;Erforderlich, Ausschlusskriterium
+Q26EXT;Sonstige (bitte ausführen):
+Q27;Würden Sie die oben stehende Frage anders beantworten, wenn es sich um einen Managed SOC Provider (SOC-Dienstleister) handelt?
+Q27_R1;Ja
+Q27_R2;Nein
+Q28;Was wären potentielle Bedenken / Sicherheitsrisiken:
+Q28_1;Zentralisierung von Daten
+Q28_2;Verkauf von Daten
+Q28_3;Überwachung von Mitarbeitern
+Q28_4;Fehlende Transparenz und Dokumentation
+Q28_5;Aufbrechen von verschlüsselten Verbindungen
+Q28_6;Preisgabe von privater oder schützenswerter Informationen
+Q28_7;Schwachstellen und Sicherheitsrisiken der Lösung selbst
+Q28_8;Verheimlichen von Informationen (Angriffen) aus staatlichen Interessen
+Q28_9;Nicht-Beachtung von vertraglichen Vereinbarungen
+Q28_10;Konkurrenz zu kommerziellen Dienstleistern
+Q28_11;Offizialprinzip / Naheverhältnis zur Strafverfolgung (die Meldung von strafrechtlich relevanten Ereignissen)
+Q28_12;Missbrauch / Korruptionsbedenken / Wirtschaftsspionage über die Einsicht von Daten
+Q28_14;Andere (bitte ausführen)
+Q28_R1;Keine
+Q28_R2;Geringe
+Q28_R3;Hohe
+Q28_R4;Enorme
+Q28_R5;Keine Angabe
+Q28EXT;Andere (bitte ausführen):
+Q29;Wo soll die Datenverarbeitung und die Datenlagerung stattfinden?
+Q29_R1;In unserer Organisation
+Q29_R2;Beim Betreiber jedoch im selben Land oder innerhalb der EU
+Q29_R3;Abhängig von datenschutzrechtlichen Bestimmungen
+Q29_R4;Ist unerheblich
+Q29_R5;Keine Angabe
+Q29_R-oth-;Sonstiges
+Q30;Wie soll der Zugriff auf diese Daten geregelt sein?
+Q30_R1;Auf Anfrage über Exporte oder vergleichbare Methoden zur Verfügung gestellt
+Q30_R2;Direkter, zeitlich limitierter Zugriff nach manueller Freischaltung
+Q30_R3;Ständiger Zugriff, z.B. durch direkten Zugriff auf die Systeme
+Q30_R4;Ist unerheblich
+Q30_R5;Kein Zugriff
+Q30_R6;Keine Angabe
+Q30_R-oth-;Sonstiges
+Q11;Beschäftigt sich Ihre Organisation bereits mit Erkennung und Reaktion?
+Q11_R1;Ja
+Q11_R2;Nein
+Q11_R3;Weiß ich nicht
+Q11_R4;Keine Angabe
+Q12;Welche der nachfolgenden Antworten trifft am ehesten für Erkennungs- und Reaktionssysteme in Ihrer Organisation zu?
+Q12_R1;Wir nutzen diese um Angreifer davon abzuhalten in unsere Systeme einzudringen.
+Q12_R2;Wir nutzen diese um Angreifer auf unseren Systemen zu erkennen und Schlimmeres zu verhindern.
+Q12_R3;Wir nutzen diese um frühzeitig mögliche Bedrohungen und Schwachstellen zu erkennen und gegenwirken zu können.
+Q12_R4;Wir nutzen diese um das Risiko eines Ausfalls unserer Backupsysteme zu minimieren.
+Q13;Welche der nachfolgenden Aktivitäten im Bereich der Reaktion auf Vorfälle werden in Ihrer Organisation verfolgt? - Aktuell
+Q13_1;Erkennung
+Q13_2;Reaktion
+Q13_R1;Vollständig intern durchgeführt (ohne externe Firmen)
+Q13_R2;Mit externer Unterstützung
+Q13_R3;Großteils extern vergeben
+Q13_R4;Vollständig extern vergeben (ohne interne Mitarbeiter)
+Q13_R5;So etwas machen wir nicht
+Q13_R6;Keine Angabe
+Q13;Welche der nachfolgenden Aktivitäten im Bereich der Reaktion auf Vorfälle werden in Ihrer Organisation verfolgt? - In den nächsten 5 Jahren
+Q13_1;Erkennung
+Q13_2;Reaktion
+Q13_R1;Vollständig intern durchgeführt (ohne externe Firmen)
+Q13_R2;Mit externer Unterstützung
+Q13_R3;Großteils extern vergeben
+Q13_R4;Vollständig extern vergeben (ohne interne Mitarbeiter)
+Q13_R5;So etwas machen wir nicht
+Q13_R6;Keine Angabe
+Q14;Hat Ihre Organisation vor Investitionen in diesen Bereichen zu intensivieren?
+Q14_1;Erkennung
+Q14_2;Reaktion
+Q14_R1;Senkung
+Q14_R2;Gleichbleibend
+Q14_R3;Steigerung
+Q15;Nutzen Sie für die Lagerung oder die Verarbeitung von sicherheitsrelevanten Daten (z.B. Logdaten) einen externen Dienstleister (unter anderem Cloud- oder SaaS-Lösungen)?
+Q15_1;Aktuell
+Q15_2;In den nächsten 5 Jahren
+Q15_R1;Ja
+Q15_R2;Nein
+Q15_R3;Weiß ich nicht
+Q16;Wie ist der Zugriff auf sicherheitsrelevante Daten (z.B. Log- und Erkennungsdaten) durch Dienstleister geregelt?
+Q16_1;Aktuell
+Q16_2;In den nächsten 5 Jahren
+Q16_R1;Auf Anfrage über Exports oder vergleichbare Methoden
+Q16_R2;Direkter Zugriff nach manueller Freischaltung
+Q16_R3;Ständiger Zugriff
+Q16_R4;Kein Zugriff
+Q16_R5;Weiß ich nicht
+Q17;Wie bewertet Ihre Organisation die Wichtigkeit der folgenden Kriterien bei der Auswahl Ihrer Sicherheits-Dienstleister:
+Q17_1;Der Haupt-Standort befindet sich im selben Land wie unsere Organisation
+Q17_2;Zumindest ein Standort im selben Land wie unser Organisation
+Q17_3;Das beschäftigte Personal befindet sich im selben Land wie unser Organisation
+Q17_4;Das beschäftigte Personal befindet sich in der EU
+Q17_5;Organisations-Zertifizierungen (wie z.B. ISO27001)
+Q17_6;Personen-Zertifizierungen (wie z.B. GIAC, CISSP, OSCP)
+Q17_7;Die Organisation besitzt eine hohe Qualität / einen guten Ruf
+Q17_8;Die Dienstleistungen sind kostengünstig
+Q17_9;Besonderes Service Level Agreement (Erreichbarkeit und Reaktion z.B. 24/7)
+Q17_10;Die Datenverarbeitung findet ausschließlich im selben Land statt
+Q17_11;Sämtliches Personal ist sicherheitsüberprüft
+Q17_12;Andere (bitte ausführen)
+Q17_R1;Unerheblich
+Q17_R2;Bevorzugt, kein Ausschlusskriterium
+Q17_R3;Erforderlich, Ausschlusskriterium
+Q17EXT;Andere (bitte ausführen):
+Q21;Wie viele Jahre beschäftigt sich Ihre Organisation schon mit dem Auf- und Ausbau von solchen Systemen?
+Q21_R1;< 3
+Q21_R2;4 – 6
+Q21_R3;> 7
+Q21_R4;Noch gar nicht
+Q21_R5;Keine Angabe
+Q01;Geschlecht
+Q01_R1;Männlich
+Q01_R2;Weiblich
+Q01_R3;Nicht-binär
+Q01_R-oth-;Sonstiges
+Q03;Ihr höchster Bildungsgrad
+Q03_R1;Pflichtschule
+Q03_R2;Facheinschlägige Ausbildung
+Q03_R3;Matura / Abitur
+Q03_R4;Höhere technische Schule (HTL)
+Q03_R5;Fachhochschule
+Q03_R6;Universität
+Q03_R7;Universität / Fachhochschule aber nicht abgeschlossen
+Q03_R-oth-;Sonstiges
+Q18;Welche der nachfolgenden Technologien nutzt Ihre Organisation derzeit:
+Q18_1;EDR/XDR
+Q18_2;Anti-Malware
+Q18_3;Next Generation Firewall
+Q18_4;Firewall
+Q18_5;DNS-Blacklisting / DNS-Shield
+Q18_6;Security information and event management (SIEM)
+Q18_7;Security orchestration, automation and response (SOAR)
+Q18_8;Zentrales Logmanagement
+Q18_9;Web-Proxy (inkl. TLS)
+Q18_10;User and entity behavior analytics (UEBA)
+Q18_11;Network Intrusion Detection / Prevention
+Q18_12;Host Intrusion Detection / Prevention
+Q18_13;Schwachstellenscanner (z.B. Netzwerk, Source-Code, Compliance, CI-CD, …)
+Q18_14;Freie Threat Intelligence Feeds / IOC Streams
+Q18_15;Kommerzielle Threat Intelligence Feeds / IOC Streams
+Q18_16;Andere (bitte ausführen)
+Q18_R1;Ja
+Q18_R2;In Planung
+Q18_R3;Innheralb 5 Jahren
+Q18_R4;Nein
+Q18EXT;Andere (bitte ausführen):
+Q19;Welche Art der Lizenzierung setzt Ihre Organisation bevorzugt ein?
+Q19_R1;Open Source / freie Software
+Q19_R2;Laufende Zahlungen (z.B. monatlich oder jährlich)
+Q19_R3;Einmalige Zahlungen
+Q19_R4;Einmalige Zahlungen zusätzlich eines laufenden Support-Vertrags
+Q19_R-oth-;Sonstiges
+Q20;Warum setzt Ihre Organisation diese Lizenzierung ein?
+Q99;Falls Sie am Gewinnspiel teilnehmen möchten hinterlassen Sie uns bitte eine Kontaktmöglichkeit.
+Q100;Falls Sie an weiteren Interviews teilnehmen möchten bitte hinterlassen Sie uns eine Kontaktadresse.

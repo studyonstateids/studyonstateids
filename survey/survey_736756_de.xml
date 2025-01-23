@@ -1,0 +1,2511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionnaire id="736756">
+  <title>Erkennungs- und Reaktionssysteme</title>
+  <investigator/>
+  <dataCollector/>
+  <questionnaireInfo>
+    <position>before</position>
+    <text>&lt;p&gt;Die nachfolgende Umfrage beschäftigt sich mit Erkennungs- und Reaktionssystemen. Die Umfrage ist anonym gestaltet, die Ergebnisse der Umfrage fließen in wissenschaftliche Arbeiten ein.&lt;/p&gt;
+
+&lt;p&gt;Die Ergebnisse liefern die Grundlage für das Design von nationalen und internationalen Erkennungs- und Reaktionssystemen.&lt;/p&gt;
+
+&lt;p&gt;Die Umfrage ist in 5 Bereiche unterteilt, wobei die ersten beiden Teile verpflichtend sind, die weiteren zwei Teile größtenteils optional und der letzte Teil vollständig optional ist.&lt;/p&gt;
+
+&lt;p&gt;Bitte reservieren Sie 5 Minuten für die Umfrage. Falls Sie den optionalen Teil mit beantworten, rechnen Sie bitte mit 7 weiteren Minuten.&lt;/p&gt;
+
+&lt;p&gt;Die Verlosung des Hauptpreises findet am 06.10. statt. Ihre Kontaktadresse um am Gewinnspiel Teil zu nehmen ist auf der letzten Seite zu hinterlegen.&lt;/p&gt;</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <section id="12">
+    <sectionInfo>
+      <position>title</position>
+      <text>Empfinden</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>&lt;p&gt;Bitte beantworten Sie nachfolgende Fragen aus Ihrer persönlichen Sicht.&lt;/p&gt;</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Wie wichtig schätzen Sie Erkennungs- und Reaktionssysteme ein?</text>
+      <directive>
+        <position>during</position>
+        <text>&lt;p&gt;Beispiele für Erkennung&lt;/p&gt;
+
+
+	Prozesse und Systeme, mit welchen Anomalien und Ereignisse, die auf einen potenziellen Hackangriff hindeuten, erkannt werden können.
+	Informations-Systeme werden in kontinuierlich oder in regelmäßigen Abständen überwacht um Cybersecurity-Ereignisse zu identifizieren und die Wirksamkeit von Schutzmaßnahmen zu überprüfen.
+	Beispielsweise über den Einsatz von Intrusion Detection Systemen, dem Aufbau eines Security Operation Center, dem Einsatz eines SIEM, etc.
+
+
+&lt;p&gt;
+Beispiele für Reaktion&lt;/p&gt;
+
+
+	Die Planung von Reaktions-Aktivitäten indem beispielsweise Playbooks (Ablauf-Dokumentation / Arbeitsanweisung) für Cyber-Sicherheits-Vorfälle vorbereitet, Schulungen durchgeführt und Kontakte zu externen gepflegt werden.
+	Es werden Kanäle genutzt, um sich über Gefahren zu informieren, diese Informationen fließen in IT-Security Systeme und Prozesse mit ein.
+	Vorfälle werden analyisiert und bewertet, es werden forensische Methoden genutzt um Daten zu sichern, im Zweifelsfall werden auch Reverse Engineering Methoden eingesetzt, um einen vollständigen Überblick über die technischen Auswirkungen von potentieller Malware zu bekommen.
+	Es werden Prozesse und Systeme eingesetzt, um die Bedrohung im Falle eines Angriffs einzudämmen und vollständig auszurotten, damit es zu keinen Folgeschäden kommt.</text>
+        <administration>self</administration>
+      </directive>
+      <response varName="Q31">
+        <fixed>
+          <category>
+            <label>Unwesentlich</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Neutral</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Wesentlich</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sehr wesentlich</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Denken Sie der Einsatz eines solchen Systems steigert die Sicherheit?</text>
+      <response varName="Q32">
+        <fixed>
+          <category>
+            <label>Unwesentlich</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Neutral</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Wesentlich</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sehr wesentlich</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Durch den Betrieb von Erkennungs- und Reaktionssystemen hat meine Organisation einen Nutzen erwirtschaftet.</text>
+      <response varName="Q33">
+        <fixed>
+          <category>
+            <label>Unwesentlich</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Neutral</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Wesentlich</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sehr wesentlich</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Setzen wir nicht ein</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>6</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Wie würden Sie sich fühlen, wenn eine staatliche Stelle einen solchen Dienst für Ihre Organisation betreibt?</text>
+      <response varName="Q34Copy">
+        <fixed>
+          <category>
+            <label>Sehr unsicher</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Unsicher</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Sicher</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sehr sicher</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Wie würden Sie sich fühlen, wenn eine kommerzielle Stelle im staatlichen Auftrag einen solchen Dienst für Ihre Organisation betreibt?</text>
+      <response varName="Q34">
+        <fixed>
+          <category>
+            <label>Sehr unsicher</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Unsicher</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Sicher</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sehr sicher</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Bitte beschreiben Sie warum:</text>
+      <response varName="Q35">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Ich vertraue einer staatlichen Stelle hinsichtlich</text>
+      <subQuestion varName="Q36_1">
+        <text>Qualität des Betriebs</text>
+      </subQuestion>
+      <subQuestion varName="Q36_2">
+        <text>Expertise im Bezug auf Cybersicherheit</text>
+      </subQuestion>
+      <subQuestion varName="Q36_3">
+        <text>Einhaltung des Datenschutzes</text>
+      </subQuestion>
+      <subQuestion varName="Q36_4">
+        <text>Einhaltung der vereinbarten Leistungen</text>
+      </subQuestion>
+      <subQuestion varName="Q36_5">
+        <text>Nationale Zusammenarbeit</text>
+      </subQuestion>
+      <subQuestion varName="Q36_6">
+        <text>Internationale Zusammenarbeit</text>
+      </subQuestion>
+      <subQuestion varName="Q36_7">
+        <text>Andere (bitte ausführen)</text>
+      </subQuestion>
+      <response varName="Q36">
+        <fixed>
+          <category>
+            <label>Kaum</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Neutral</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Stark</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Vollumfänglich</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Andere (bitte ausführen)</text>
+      <response varName="Q36EXT">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Wo soll der Betrieb der Erkennungs- und Reaktionssysteme angesiedelt sein:</text>
+      <response varName="Q37">
+        <fixed>
+          <category>
+            <label>Auf europäischer / EU Ebene</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Staatlich (z.B. BMI)</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Private Organisation im Auftrag und unter Kontrolle einer staatlichen Stelle</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Verein, oder Verbund (z.B. CERT, Sektor-CERT)</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Sonstiges</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="Q37other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Um herauszufinden ob Sie nach wie vor aktiv an der Umfrage teilnehmen, selektieren Sie bitte "Sehr sicher":</text>
+      <response varName="Q38">
+        <fixed>
+          <category>
+            <label>Sehr unsicher</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Unsicher</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Sicher</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sehr sicher</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Fühlen Sie sich persönlich mehr überwacht, seitdem Ihre Organisation Erkennungs- und Reaktionssysteme einsetzt?</text>
+      <response varName="Q39">
+        <fixed>
+          <category>
+            <label>Ja</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Nein</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Setzen wir nicht ein</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>4</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Aus welchem Grund denken Sie, könnte der Betrieb einer solchen Lösung von staatlichem Interesse sein?</text>
+      <response varName="Q40_1">
+        <fixed>
+          <category>
+            <label>Eindämmung von Schäden auf die Wirtschaft</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q40_2">
+        <fixed>
+          <category>
+            <label>Bessere Reaktion im Krisenfall</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q40_3">
+        <fixed>
+          <category>
+            <label>Aufzeichnungen im kriminalrechtlichen Interesse (Veruntreuung, Korruption, Steuerhinterziehung)</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q40_4">
+        <fixed>
+          <category>
+            <label>Eindämmung von Spionageaktivitäten</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q40_5">
+        <fixed>
+          <category>
+            <label>Keine Angabe</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q406">
+        <fixed>
+          <category>
+            <label>Sonstiges</label>
+            <value>Y</value>
+            <contingentQuestion varName="Q40other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="9">
+    <sectionInfo>
+      <position>title</position>
+      <text>Zu Ihrer Person</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Altersgruppe</text>
+      <response varName="Q02">
+        <fixed>
+          <category>
+            <label>&lt; 18</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>18-25</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>26-35</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>36-45</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>46-55</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>56-65</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>&gt; 65</label>
+            <value>7</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>8</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Hat Ihre Ausbildung einen Bezug zu einem oder mehreren der nachfolgenden Bereiche?</text>
+      <response varName="Q04_1">
+        <fixed>
+          <category>
+            <label>Technik</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q04_2">
+        <fixed>
+          <category>
+            <label>Recht</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q04_3">
+        <fixed>
+          <category>
+            <label>Informatik</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q04_4">
+        <fixed>
+          <category>
+            <label>IT-Security</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q04_5">
+        <fixed>
+          <category>
+            <label>Soziologie</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q04_6">
+        <fixed>
+          <category>
+            <label>Keine Angabe</label>
+            <value>Y</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>In welchem Land ist Ihre Organisation hauptansässig? (Es handelt sich um eine englische Liste.)</text>
+      <response varName="Q05">
+        <fixed>
+          <category>
+            <label>Afghanistan</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Albania</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Algeria</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Andorra</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Angola</label>
+            <value>AO05</value>
+          </category>
+          <category>
+            <label>Antigua and Barbuda</label>
+            <value>AO06</value>
+          </category>
+          <category>
+            <label>Argentina</label>
+            <value>AO07</value>
+          </category>
+          <category>
+            <label>Armenia</label>
+            <value>AO08</value>
+          </category>
+          <category>
+            <label>Australia</label>
+            <value>AO09</value>
+          </category>
+          <category>
+            <label>Austria</label>
+            <value>AO10</value>
+          </category>
+          <category>
+            <label>Azerbaijan</label>
+            <value>AO11</value>
+          </category>
+          <category>
+            <label>Bahamas</label>
+            <value>AO12</value>
+          </category>
+          <category>
+            <label>Bahrain</label>
+            <value>AO13</value>
+          </category>
+          <category>
+            <label>Bangladesh</label>
+            <value>AO14</value>
+          </category>
+          <category>
+            <label>Barbados</label>
+            <value>AO15</value>
+          </category>
+          <category>
+            <label>Belarus</label>
+            <value>AO16</value>
+          </category>
+          <category>
+            <label>Belgium</label>
+            <value>AO17</value>
+          </category>
+          <category>
+            <label>Belize</label>
+            <value>AO18</value>
+          </category>
+          <category>
+            <label>Benin</label>
+            <value>AO19</value>
+          </category>
+          <category>
+            <label>Bhutan</label>
+            <value>AO20</value>
+          </category>
+          <category>
+            <label>Bolivia</label>
+            <value>AO21</value>
+          </category>
+          <category>
+            <label>Bosnia and Herzegovina</label>
+            <value>AO22</value>
+          </category>
+          <category>
+            <label>Botswana</label>
+            <value>AO23</value>
+          </category>
+          <category>
+            <label>Brazil</label>
+            <value>AO24</value>
+          </category>
+          <category>
+            <label>Brunei</label>
+            <value>AO25</value>
+          </category>
+          <category>
+            <label>Bulgaria</label>
+            <value>AO26</value>
+          </category>
+          <category>
+            <label>Burkina Faso</label>
+            <value>AO27</value>
+          </category>
+          <category>
+            <label>Burundi</label>
+            <value>AO28</value>
+          </category>
+          <category>
+            <label>Cambodia</label>
+            <value>AO29</value>
+          </category>
+          <category>
+            <label>Cameroon</label>
+            <value>AO30</value>
+          </category>
+          <category>
+            <label>Canada</label>
+            <value>AO31</value>
+          </category>
+          <category>
+            <label>Cape Verde (Cabo Verde)</label>
+            <value>AO32</value>
+          </category>
+          <category>
+            <label>Central African Republic</label>
+            <value>AO33</value>
+          </category>
+          <category>
+            <label>Chad</label>
+            <value>AO34</value>
+          </category>
+          <category>
+            <label>Chile</label>
+            <value>AO35</value>
+          </category>
+          <category>
+            <label>China</label>
+            <value>AO36</value>
+          </category>
+          <category>
+            <label>Colombia</label>
+            <value>AO37</value>
+          </category>
+          <category>
+            <label>Comoros</label>
+            <value>AO38</value>
+          </category>
+          <category>
+            <label>Congo, Republic of the</label>
+            <value>AO39</value>
+          </category>
+          <category>
+            <label>Congo, Democratic Republic of the</label>
+            <value>AO40</value>
+          </category>
+          <category>
+            <label>Costa Rica</label>
+            <value>AO41</value>
+          </category>
+          <category>
+            <label>Côte d'Ivoire</label>
+            <value>AO42</value>
+          </category>
+          <category>
+            <label>Croatia</label>
+            <value>AO43</value>
+          </category>
+          <category>
+            <label>Cuba</label>
+            <value>AO44</value>
+          </category>
+          <category>
+            <label>Cyprus</label>
+            <value>AO45</value>
+          </category>
+          <category>
+            <label>Czech Republic</label>
+            <value>AO46</value>
+          </category>
+          <category>
+            <label>Denmark</label>
+            <value>AO47</value>
+          </category>
+          <category>
+            <label>Djibouti</label>
+            <value>AO48</value>
+          </category>
+          <category>
+            <label>Dominica</label>
+            <value>AO49</value>
+          </category>
+          <category>
+            <label>Dominican Republic</label>
+            <value>AO50</value>
+          </category>
+          <category>
+            <label>Ecuador</label>
+            <value>AO51</value>
+          </category>
+          <category>
+            <label>Egypt</label>
+            <value>AO52</value>
+          </category>
+          <category>
+            <label>El Salvador</label>
+            <value>AO53</value>
+          </category>
+          <category>
+            <label>Equatorial Guinea</label>
+            <value>AO54</value>
+          </category>
+          <category>
+            <label>Eritrea</label>
+            <value>AO55</value>
+          </category>
+          <category>
+            <label>Estonia</label>
+            <value>AO56</value>
+          </category>
+          <category>
+            <label>Eswatini</label>
+            <value>AO57</value>
+          </category>
+          <category>
+            <label>Ethiopia</label>
+            <value>AO58</value>
+          </category>
+          <category>
+            <label>Fiji</label>
+            <value>AO59</value>
+          </category>
+          <category>
+            <label>Finland</label>
+            <value>AO60</value>
+          </category>
+          <category>
+            <label>France</label>
+            <value>AO61</value>
+          </category>
+          <category>
+            <label>Gabon</label>
+            <value>AO62</value>
+          </category>
+          <category>
+            <label>Gambia</label>
+            <value>AO63</value>
+          </category>
+          <category>
+            <label>Georgia</label>
+            <value>AO64</value>
+          </category>
+          <category>
+            <label>Germany</label>
+            <value>AO65</value>
+          </category>
+          <category>
+            <label>Ghana</label>
+            <value>AO66</value>
+          </category>
+          <category>
+            <label>Greece</label>
+            <value>AO67</value>
+          </category>
+          <category>
+            <label>Grenada</label>
+            <value>AO68</value>
+          </category>
+          <category>
+            <label>Guatemala</label>
+            <value>AO69</value>
+          </category>
+          <category>
+            <label>Guinea</label>
+            <value>AO70</value>
+          </category>
+          <category>
+            <label>Guinea-Bissau</label>
+            <value>AO71</value>
+          </category>
+          <category>
+            <label>Guyana</label>
+            <value>AO72</value>
+          </category>
+          <category>
+            <label>Haiti</label>
+            <value>AO73</value>
+          </category>
+          <category>
+            <label>Honduras</label>
+            <value>AO74</value>
+          </category>
+          <category>
+            <label>Hungary</label>
+            <value>AO75</value>
+          </category>
+          <category>
+            <label>Iceland</label>
+            <value>AO76</value>
+          </category>
+          <category>
+            <label>India</label>
+            <value>AO77</value>
+          </category>
+          <category>
+            <label>Indonesia</label>
+            <value>AO78</value>
+          </category>
+          <category>
+            <label>Iran</label>
+            <value>AO79</value>
+          </category>
+          <category>
+            <label>Iraq</label>
+            <value>AO80</value>
+          </category>
+          <category>
+            <label>Ireland</label>
+            <value>AO81</value>
+          </category>
+          <category>
+            <label>Israel</label>
+            <value>AO82</value>
+          </category>
+          <category>
+            <label>Italy</label>
+            <value>AO83</value>
+          </category>
+          <category>
+            <label>Jamaica</label>
+            <value>AO84</value>
+          </category>
+          <category>
+            <label>Japan</label>
+            <value>AO85</value>
+          </category>
+          <category>
+            <label>Jordan</label>
+            <value>AO86</value>
+          </category>
+          <category>
+            <label>Kazakhstan</label>
+            <value>AO87</value>
+          </category>
+          <category>
+            <label>Kenya</label>
+            <value>AO88</value>
+          </category>
+          <category>
+            <label>Kiribati</label>
+            <value>AO89</value>
+          </category>
+          <category>
+            <label>Kosovo</label>
+            <value>AO90</value>
+          </category>
+          <category>
+            <label>Kuwait</label>
+            <value>AO91</value>
+          </category>
+          <category>
+            <label>Kyrgyzstan</label>
+            <value>AO92</value>
+          </category>
+          <category>
+            <label>Laos</label>
+            <value>AO93</value>
+          </category>
+          <category>
+            <label>Latvia</label>
+            <value>AO94</value>
+          </category>
+          <category>
+            <label>Lebanon</label>
+            <value>AO95</value>
+          </category>
+          <category>
+            <label>Lesotho</label>
+            <value>AO96</value>
+          </category>
+          <category>
+            <label>Liberia</label>
+            <value>AO97</value>
+          </category>
+          <category>
+            <label>Libya</label>
+            <value>AO98</value>
+          </category>
+          <category>
+            <label>Liechtenstein</label>
+            <value>AO99</value>
+          </category>
+          <category>
+            <label>Lithuania</label>
+            <value>AO100</value>
+          </category>
+          <category>
+            <label>Luxembourg</label>
+            <value>AO101</value>
+          </category>
+          <category>
+            <label>Madagascar</label>
+            <value>AO102</value>
+          </category>
+          <category>
+            <label>Malawi</label>
+            <value>AO103</value>
+          </category>
+          <category>
+            <label>Malaysia</label>
+            <value>AO104</value>
+          </category>
+          <category>
+            <label>Maldives</label>
+            <value>AO105</value>
+          </category>
+          <category>
+            <label>Mali</label>
+            <value>AO106</value>
+          </category>
+          <category>
+            <label>Malta</label>
+            <value>AO107</value>
+          </category>
+          <category>
+            <label>Marshall Islands</label>
+            <value>AO108</value>
+          </category>
+          <category>
+            <label>Mauritania</label>
+            <value>AO109</value>
+          </category>
+          <category>
+            <label>Mauritius</label>
+            <value>AO110</value>
+          </category>
+          <category>
+            <label>Mexico</label>
+            <value>AO111</value>
+          </category>
+          <category>
+            <label>Micronesia</label>
+            <value>AO112</value>
+          </category>
+          <category>
+            <label>Moldova</label>
+            <value>AO113</value>
+          </category>
+          <category>
+            <label>Monaco</label>
+            <value>AO114</value>
+          </category>
+          <category>
+            <label>Mongolia</label>
+            <value>AO115</value>
+          </category>
+          <category>
+            <label>Montenegro</label>
+            <value>AO116</value>
+          </category>
+          <category>
+            <label>Morocco</label>
+            <value>AO117</value>
+          </category>
+          <category>
+            <label>Mozambique</label>
+            <value>AO118</value>
+          </category>
+          <category>
+            <label>Myanmar</label>
+            <value>AO119</value>
+          </category>
+          <category>
+            <label>Namibia</label>
+            <value>AO120</value>
+          </category>
+          <category>
+            <label>Nauru</label>
+            <value>AO121</value>
+          </category>
+          <category>
+            <label>Nepal</label>
+            <value>AO122</value>
+          </category>
+          <category>
+            <label>Netherlands</label>
+            <value>AO123</value>
+          </category>
+          <category>
+            <label>New Zealand</label>
+            <value>AO124</value>
+          </category>
+          <category>
+            <label>Nicaragua</label>
+            <value>AO125</value>
+          </category>
+          <category>
+            <label>Niger</label>
+            <value>AO126</value>
+          </category>
+          <category>
+            <label>Nigeria</label>
+            <value>AO127</value>
+          </category>
+          <category>
+            <label>North Korea</label>
+            <value>AO128</value>
+          </category>
+          <category>
+            <label>North Macedonia</label>
+            <value>AO129</value>
+          </category>
+          <category>
+            <label>Norway</label>
+            <value>AO130</value>
+          </category>
+          <category>
+            <label>Oman</label>
+            <value>AO131</value>
+          </category>
+          <category>
+            <label>Pakistan</label>
+            <value>AO132</value>
+          </category>
+          <category>
+            <label>Palau</label>
+            <value>AO133</value>
+          </category>
+          <category>
+            <label>Panama</label>
+            <value>AO134</value>
+          </category>
+          <category>
+            <label>Papua New Guinea</label>
+            <value>AO135</value>
+          </category>
+          <category>
+            <label>Paraguay</label>
+            <value>AO136</value>
+          </category>
+          <category>
+            <label>Peru</label>
+            <value>AO137</value>
+          </category>
+          <category>
+            <label>Philippines</label>
+            <value>AO138</value>
+          </category>
+          <category>
+            <label>Poland</label>
+            <value>AO139</value>
+          </category>
+          <category>
+            <label>Portugal</label>
+            <value>AO140</value>
+          </category>
+          <category>
+            <label>Qatar</label>
+            <value>AO141</value>
+          </category>
+          <category>
+            <label>Romania</label>
+            <value>AO142</value>
+          </category>
+          <category>
+            <label>Russia</label>
+            <value>AO143</value>
+          </category>
+          <category>
+            <label>Rwanda</label>
+            <value>AO144</value>
+          </category>
+          <category>
+            <label>Saint Kitts and Nevis</label>
+            <value>AO145</value>
+          </category>
+          <category>
+            <label>Saint Lucia</label>
+            <value>AO146</value>
+          </category>
+          <category>
+            <label>Saint Vincent and the Grenadines</label>
+            <value>AO147</value>
+          </category>
+          <category>
+            <label>Samoa</label>
+            <value>AO148</value>
+          </category>
+          <category>
+            <label>San Marino</label>
+            <value>AO149</value>
+          </category>
+          <category>
+            <label>São Tomé and Príncipe</label>
+            <value>AO150</value>
+          </category>
+          <category>
+            <label>Saudi Arabia</label>
+            <value>AO151</value>
+          </category>
+          <category>
+            <label>Senegal</label>
+            <value>AO152</value>
+          </category>
+          <category>
+            <label>Serbia</label>
+            <value>AO153</value>
+          </category>
+          <category>
+            <label>Seychelles</label>
+            <value>AO154</value>
+          </category>
+          <category>
+            <label>Sierra Leone</label>
+            <value>AO155</value>
+          </category>
+          <category>
+            <label>Singapore</label>
+            <value>AO156</value>
+          </category>
+          <category>
+            <label>Slovakia</label>
+            <value>AO157</value>
+          </category>
+          <category>
+            <label>Slovenia</label>
+            <value>AO158</value>
+          </category>
+          <category>
+            <label>Solomon Islands</label>
+            <value>AO159</value>
+          </category>
+          <category>
+            <label>Somalia</label>
+            <value>AO160</value>
+          </category>
+          <category>
+            <label>South Africa</label>
+            <value>AO161</value>
+          </category>
+          <category>
+            <label>South Korea</label>
+            <value>AO162</value>
+          </category>
+          <category>
+            <label>South Sudan</label>
+            <value>AO163</value>
+          </category>
+          <category>
+            <label>Spain</label>
+            <value>AO164</value>
+          </category>
+          <category>
+            <label>Sri Lanka</label>
+            <value>AO165</value>
+          </category>
+          <category>
+            <label>Sudan</label>
+            <value>AO166</value>
+          </category>
+          <category>
+            <label>Suriname</label>
+            <value>AO167</value>
+          </category>
+          <category>
+            <label>Sweden</label>
+            <value>AO168</value>
+          </category>
+          <category>
+            <label>Switzerland</label>
+            <value>AO169</value>
+          </category>
+          <category>
+            <label>Syria</label>
+            <value>AO170</value>
+          </category>
+          <category>
+            <label>Tajikistan</label>
+            <value>AO171</value>
+          </category>
+          <category>
+            <label>Tanzania</label>
+            <value>AO172</value>
+          </category>
+          <category>
+            <label>Thailand</label>
+            <value>AO173</value>
+          </category>
+          <category>
+            <label>Timor-Leste</label>
+            <value>AO174</value>
+          </category>
+          <category>
+            <label>Togo</label>
+            <value>AO175</value>
+          </category>
+          <category>
+            <label>Tonga</label>
+            <value>AO176</value>
+          </category>
+          <category>
+            <label>Trinidad and Tobago</label>
+            <value>AO177</value>
+          </category>
+          <category>
+            <label>Tunisia</label>
+            <value>AO178</value>
+          </category>
+          <category>
+            <label>Turkey</label>
+            <value>AO179</value>
+          </category>
+          <category>
+            <label>Turkmenistan</label>
+            <value>AO180</value>
+          </category>
+          <category>
+            <label>Tuvalu</label>
+            <value>AO181</value>
+          </category>
+          <category>
+            <label>Uganda</label>
+            <value>AO182</value>
+          </category>
+          <category>
+            <label>Ukraine</label>
+            <value>AO183</value>
+          </category>
+          <category>
+            <label>United Arab Emirates</label>
+            <value>AO184</value>
+          </category>
+          <category>
+            <label>United Kingdom</label>
+            <value>AO185</value>
+          </category>
+          <category>
+            <label>United States</label>
+            <value>AO186</value>
+          </category>
+          <category>
+            <label>Uruguay</label>
+            <value>AO187</value>
+          </category>
+          <category>
+            <label>Uzbekistan</label>
+            <value>AO188</value>
+          </category>
+          <category>
+            <label>Vanuatu</label>
+            <value>AO189</value>
+          </category>
+          <category>
+            <label>Vatican City</label>
+            <value>AO190</value>
+          </category>
+          <category>
+            <label>Venezuela</label>
+            <value>AO191</value>
+          </category>
+          <category>
+            <label>Vietnam</label>
+            <value>AO192</value>
+          </category>
+          <category>
+            <label>Yemen</label>
+            <value>AO193</value>
+          </category>
+          <category>
+            <label>Zambia</label>
+            <value>AO194</value>
+          </category>
+          <category>
+            <label>Zimbabwe</label>
+            <value>AO195</value>
+          </category>
+          <category>
+            <label>Sonstiges</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="Q05other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Welche Position haben Sie aktuell in Ihrer derzeitigen Organisation inne?</text>
+      <response varName="Q06">
+        <fixed>
+          <category>
+            <label>Geschäftsführung</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Mitarbeiter:in mit Entscheidungsbefugnis im Bereich der IT-Sicherheit</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Mitarbeiter:in</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Sonstiges</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="Q06other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Wie schätzen Sie ihre Kenntnisse im Bereich von Detektions- und Erkennungssystemen ein?</text>
+      <response varName="Q07">
+        <fixed>
+          <category>
+            <label>Keine Kenntnisse</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Wenig sachkundig</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Durchschnittlich sachkundig</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sachkundig</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Experte</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>6</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Fällt ihre Organisation in einen der folgenden Bereiche?</text>
+      <response varName="Q08">
+        <fixed>
+          <category>
+            <label>Kritische Infrastruktur, wesentliche Einrichtungen, Betreiber wesentlicher Dienste</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Wichtige Einrichtung nach NIS 2.0</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Öffentliche Verwaltung und staatliche Organisationen</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Nein</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Wie viele Personen arbeiten in Ihrer Organisation?</text>
+      <response varName="Q09">
+        <fixed>
+          <category>
+            <label>1</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>2 - 9</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>10 – 49</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>50 – 249</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>&gt; 249</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>6</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>In welcher Branche arbeiten Sie?</text>
+      <response varName="Q10">
+        <fixed>
+          <category>
+            <label>Agrarwirtschaft</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bau</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Chemie &amp; Rohstoffe</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Dienstleistungen &amp; Handwerk</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>E-Commerce</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Energie &amp; Umwelt</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>Finanzen, Versicherungen &amp; Immobilien</label>
+            <value>7</value>
+          </category>
+          <category>
+            <label>Freizeit</label>
+            <value>8</value>
+          </category>
+          <category>
+            <label>Gesellschaft (Bildung, Forschung, Recht, ...)</label>
+            <value>9</value>
+          </category>
+          <category>
+            <label>Handel</label>
+            <value>10</value>
+          </category>
+          <category>
+            <label>Internet</label>
+            <value>11</value>
+          </category>
+          <category>
+            <label>Konsum &amp; FMCG</label>
+            <value>12</value>
+          </category>
+          <category>
+            <label>Leben</label>
+            <value>13</value>
+          </category>
+          <category>
+            <label>Medien</label>
+            <value>14</value>
+          </category>
+          <category>
+            <label>Metall &amp; Elektronik</label>
+            <value>15</value>
+          </category>
+          <category>
+            <label>Pharma &amp; Gesundheit</label>
+            <value>16</value>
+          </category>
+          <category>
+            <label>Sport &amp; Fitness</label>
+            <value>17</value>
+          </category>
+          <category>
+            <label>Schule</label>
+            <value>18</value>
+          </category>
+          <category>
+            <label>Telekommunikation und IT</label>
+            <value>19</value>
+          </category>
+          <category>
+            <label>Tourismus &amp; Gastronomie</label>
+            <value>20</value>
+          </category>
+          <category>
+            <label>Verkehr &amp; Logistik</label>
+            <value>21</value>
+          </category>
+          <category>
+            <label>Wirtschaft &amp; Politik (Öffentliche Verwaltung, Verteidigung, …)</label>
+            <value>22</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>23</value>
+          </category>
+          <category>
+            <label>Sonstiges</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="Q10other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="11">
+    <sectionInfo>
+      <position>title</position>
+      <text>Erwartungshaltung</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>&lt;p&gt;Sämtliche Fragen sind in Bezug auf die Erkennungs- und Reaktions-Fähigkeiten Ihrer Organisation auf Cyber-Sicherheits-Vorfälle zu sehen.&lt;/p&gt;
+
+&lt;p&gt;Bitte versuchen Sie soweit möglich die Fragen aus der Sicht Ihrer Organisation zu beantworten.&lt;/p&gt;</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Würde Ihre Organisation an einem staatlich zur Verfügung gestellten Erkennungs- und Reaktionssystem teilnehmen?</text>
+      <response varName="Q22">
+        <fixed>
+          <category>
+            <label>Ja</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Nein</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Weiß ich nicht</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Sonstiges</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="Q22other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Welche der folgenden Aktivitäten würde Ihre Organisation beziehen?</text>
+      <subQuestion varName="Q23_1">
+        <text>Erkennung</text>
+      </subQuestion>
+      <subQuestion varName="Q23_2">
+        <text>Reaktion</text>
+      </subQuestion>
+      <response varName="Q23">
+        <fixed>
+          <category>
+            <label>Vollständige Durchführung</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Unterstützende Aktivitäten</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Keine</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>4</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Bitte beschreiben Sie in eigenen Worten kurz, warum Ihre Organisation diese Dienste beziehen würde:</text>
+      <response varName="Q24">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Was erwartet sich Ihre Organisation von einem solchen System?</text>
+      <subQuestion varName="Q25_1">
+        <text>Einen besseren inneren Austausch</text>
+      </subQuestion>
+      <subQuestion varName="Q25_2">
+        <text>Einen besseren Überblick über die aktuelle Bedrohungslage in der Branche und Branchenübergreifend</text>
+      </subQuestion>
+      <subQuestion varName="Q25_3">
+        <text>Die zusätzliche externe Expertise</text>
+      </subQuestion>
+      <subQuestion varName="Q25_4">
+        <text>Eine zusätzliche Kommunikationsplattform über welche ein rascher Austausch mit anderer, ebenfalls betroffener Organisation hergestellt werden kann</text>
+      </subQuestion>
+      <subQuestion varName="Q25_5">
+        <text>Zugriff auf kostengünstige Threat Intelligence Feeds</text>
+      </subQuestion>
+      <subQuestion varName="Q25_6">
+        <text>Sonstige (bitte ausführen)</text>
+      </subQuestion>
+      <response varName="Q25">
+        <fixed>
+          <category>
+            <label>Unerheblich</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Wünschenswert</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Sehr wichtig</label>
+            <value>3</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sonstige (bitte ausführen):</text>
+      <response varName="Q25EXT">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Was wären die Rahmenbedingungen Ihrer Organisation, um teilzunehmen?</text>
+      <subQuestion varName="Q26_1">
+        <text>Kostenersparnis zum aktuellen System</text>
+      </subQuestion>
+      <subQuestion varName="Q26_2">
+        <text>Feedbackmöglichkeit, sowie das Mitwirken am System</text>
+      </subQuestion>
+      <subQuestion varName="Q26_3">
+        <text>Bessere SLAs als bei der aktuell eingesetzten Lösung</text>
+      </subQuestion>
+      <subQuestion varName="Q26_4">
+        <text>Hohe Systemverfügbarkeit</text>
+      </subQuestion>
+      <subQuestion varName="Q26_5">
+        <text>Hohe System-Performance (z.B. Abdeckung aller Offices, sämtliche Bandbreiten, alle Endgeräte)</text>
+      </subQuestion>
+      <subQuestion varName="Q26_6">
+        <text>Betreiber ist eine staatliche Stelle</text>
+      </subQuestion>
+      <subQuestion varName="Q26_7">
+        <text>Betreiber ist eine private / kommerzielle Stelle</text>
+      </subQuestion>
+      <subQuestion varName="Q26_8">
+        <text>Staatliche Kontrolle des Betreibers</text>
+      </subQuestion>
+      <subQuestion varName="Q26_9">
+        <text>Die Möglichkeit bei Falschmeldungen oder verabsäumten Meldungen Ansprüche gegenüber dem Betreiber zu erheben</text>
+      </subQuestion>
+      <subQuestion varName="Q26_10">
+        <text>Umfangreiche Vorauswertung und dadurch Reduzierung der Last meiner Mitarbeiter</text>
+      </subQuestion>
+      <subQuestion varName="Q26_11">
+        <text>Die Kosten für eine solche Lösung werden überwiegend vom Staat übernommen</text>
+      </subQuestion>
+      <subQuestion varName="Q26_12">
+        <text>Kontrolle über die gesammelten Daten und Kontrolle der Datenauswertung</text>
+      </subQuestion>
+      <subQuestion varName="Q26_13">
+        <text>Erfüllung rechtlicher und vertraglicher Voraussetzungen</text>
+      </subQuestion>
+      <subQuestion varName="Q26_14">
+        <text>Keine Notwendigkeit der Installation von Software auf Geräten bzw. Endpoints</text>
+      </subQuestion>
+      <subQuestion varName="Q26_15">
+        <text>Daten werden nur netzwerkseitig am Netzwerkperimeter (vor der Unternehmens-Firewall) gesammelt</text>
+      </subQuestion>
+      <subQuestion varName="Q26_16">
+        <text>System ist anerkannt und zertifiziert</text>
+      </subQuestion>
+      <subQuestion varName="Q26_17">
+        <text>Daten verlassen unsere Organisation nicht</text>
+      </subQuestion>
+      <subQuestion varName="Q26_18">
+        <text>Anonymisierung personenbezogener Daten</text>
+      </subQuestion>
+      <subQuestion varName="Q26_19">
+        <text>Pseudonymisierung personenbezogener Daten</text>
+      </subQuestion>
+      <subQuestion varName="Q26_20">
+        <text>Transparenz über sämtliche Aktivitäten</text>
+      </subQuestion>
+      <subQuestion varName="Q26_21">
+        <text>Vollständiger Zugriff auf die im eigenen Netzwerk befindlichen Geräte</text>
+      </subQuestion>
+      <subQuestion varName="Q26_22">
+        <text>Regelmäßige Sicherheitsprüfungen durch unabhängige Stellen</text>
+      </subQuestion>
+      <subQuestion varName="Q26_23">
+        <text>Auditrecht (Einsicht auf die Systeme)</text>
+      </subQuestion>
+      <subQuestion varName="Q26_25">
+        <text>Ich kann Soforthilfemaßnahmen vom Betreiber beziehen</text>
+      </subQuestion>
+      <subQuestion varName="Q26_26">
+        <text>Ich kann tiefergehende Analysen vom Betreiber beziehen</text>
+      </subQuestion>
+      <subQuestion varName="Q26_27">
+        <text>Sofortiger Zugriff auf alle Erkennungsdaten</text>
+      </subQuestion>
+      <subQuestion varName="Q26_28">
+        <text>Sonstige (bitte Ausführen)</text>
+      </subQuestion>
+      <response varName="Q26">
+        <fixed>
+          <category>
+            <label>Unerheblich</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bevorzugt, kein Ausschlusskriterium</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Erforderlich, Ausschlusskriterium</label>
+            <value>3</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sonstige (bitte ausführen):</text>
+      <response varName="Q26EXT">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Würden Sie die oben stehende Frage anders beantworten, wenn es sich um einen Managed SOC Provider (SOC-Dienstleister) handelt?</text>
+      <response varName="Q27">
+        <fixed>
+          <category>
+            <label>Ja</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Nein</label>
+            <value>2</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Q27_comment">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Was wären potentielle Bedenken / Sicherheitsrisiken:</text>
+      <subQuestion varName="Q28_1">
+        <text>Zentralisierung von Daten</text>
+      </subQuestion>
+      <subQuestion varName="Q28_2">
+        <text>Verkauf von Daten</text>
+      </subQuestion>
+      <subQuestion varName="Q28_3">
+        <text>Überwachung von Mitarbeitern</text>
+      </subQuestion>
+      <subQuestion varName="Q28_4">
+        <text>Fehlende Transparenz und Dokumentation</text>
+      </subQuestion>
+      <subQuestion varName="Q28_5">
+        <text>Aufbrechen von verschlüsselten Verbindungen</text>
+      </subQuestion>
+      <subQuestion varName="Q28_6">
+        <text>Preisgabe von privater oder schützenswerter Informationen</text>
+      </subQuestion>
+      <subQuestion varName="Q28_7">
+        <text>Schwachstellen und Sicherheitsrisiken der Lösung selbst</text>
+      </subQuestion>
+      <subQuestion varName="Q28_8">
+        <text>Verheimlichen von Informationen (Angriffen) aus staatlichen Interessen</text>
+      </subQuestion>
+      <subQuestion varName="Q28_9">
+        <text>Nicht-Beachtung von vertraglichen Vereinbarungen</text>
+      </subQuestion>
+      <subQuestion varName="Q28_10">
+        <text>Konkurrenz zu kommerziellen Dienstleistern</text>
+      </subQuestion>
+      <subQuestion varName="Q28_11">
+        <text>Offizialprinzip / Naheverhältnis zur Strafverfolgung (die Meldung von strafrechtlich relevanten Ereignissen)</text>
+      </subQuestion>
+      <subQuestion varName="Q28_12">
+        <text>Missbrauch / Korruptionsbedenken / Wirtschaftsspionage über die Einsicht von Daten</text>
+      </subQuestion>
+      <subQuestion varName="Q28_14">
+        <text>Andere (bitte ausführen)</text>
+      </subQuestion>
+      <response varName="Q28">
+        <fixed>
+          <category>
+            <label>Keine</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Geringe</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Hohe</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Enorme</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Andere (bitte ausführen):</text>
+      <response varName="Q28EXT">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Wo soll die Datenverarbeitung und die Datenlagerung stattfinden?</text>
+      <response varName="Q29">
+        <fixed>
+          <category>
+            <label>In unserer Organisation</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Beim Betreiber jedoch im selben Land oder innerhalb der EU</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Abhängig von datenschutzrechtlichen Bestimmungen</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Ist unerheblich</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Sonstiges</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="Q29other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Wie soll der Zugriff auf diese Daten geregelt sein?</text>
+      <response varName="Q30">
+        <fixed>
+          <category>
+            <label>Auf Anfrage über Exporte oder vergleichbare Methoden zur Verfügung gestellt</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Direkter, zeitlich limitierter Zugriff nach manueller Freischaltung</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Ständiger Zugriff, z.B. durch direkten Zugriff auf die Systeme</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Ist unerheblich</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Kein Zugriff</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>Sonstiges</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="Q30other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="10">
+    <sectionInfo>
+      <position>title</position>
+      <text>Bestehende Lösungen</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>&lt;p&gt;Sämtliche Fragen sind in Bezug auf die Erkennungs- und Reaktions-Fähigkeiten Ihrer Organisation auf Cyber-Sicherheits-Vorfälle zu sehen.&lt;/p&gt;
+
+&lt;p&gt;Bitte versuchen Sie soweit möglich die Fragen aus der Sicht Ihrer Organisation zu beantworten.&lt;/p&gt;</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Beschäftigt sich Ihre Organisation bereits mit Erkennung und Reaktion?</text>
+      <directive>
+        <position>during</position>
+        <text>&lt;p&gt;Beispiele für Erkennung&lt;/p&gt;
+
+
+	Wir haben Prozesse und Systeme im Einsatz, mit welchen wir Anomalien und Ereignisse, die auf einen potenziellen Hackangriff hindeuten, erkennen.
+	Unsere Informations-Systeme werden in kontinuierlich oder in regelmäßigen Abständen überwacht um Cybersecurity-Ereignisse zu identifizieren und die Wirksamkeit von Schutzmaßnahmen zu überprüfen.
+	Beispielsweise durch den Einsatz von Intrusion Detection Systemen, dem Aufbau eines Security Operation Center, dem Einsatz eines SIEM, etc.
+
+
+&lt;p&gt;
+Beispiele für Reaktion&lt;/p&gt;
+
+
+	Wir beschäftigen uns ausführlich mit der Planung unserer Reaktions-Aktivitäten indem wir beispielsweise Playbooks vorbereiten, Schulungen durchführen und Kontakte zu externen Pflegen.
+	Wir nutzen diverse Kanäle, um uns über bestehende Gefahren zu informieren, diese Informationen lassen wir in unsere IT-Security Systeme und Prozesse mit einfließen.
+	Wir analysieren Vorfälle und bewerten diese, wir nutzen forensische Methoden um Daten zusichern, im Zweifelsfall setzen wir auch Reverse Engineering Methoden ein, um einen vollständigen Überblick über die technischen Auswirkungen von potentieller Malware zu bekommen.
+	Wir haben Prozesse und Systeme im Einsatz, um die Bedrohung im Falle eines Angriffs einzudämmen und vollständig auszurotten, damit es zu keinen Folgeschäden kommt.</text>
+        <administration>self</administration>
+      </directive>
+      <response varName="Q11">
+        <fixed>
+          <category>
+            <label>Ja</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Nein</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Weiß ich nicht</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>4</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Welche der nachfolgenden Antworten trifft am ehesten für Erkennungs- und Reaktionssysteme in Ihrer Organisation zu?&lt;/p&gt;</text>
+      <response varName="Q12">
+        <fixed>
+          <category>
+            <label>Wir nutzen diese um Angreifer davon abzuhalten in unsere Systeme einzudringen.</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Wir nutzen diese um Angreifer auf unseren Systemen zu erkennen und Schlimmeres zu verhindern.</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Wir nutzen diese um frühzeitig mögliche Bedrohungen und Schwachstellen zu erkennen und gegenwirken zu können.</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Wir nutzen diese um das Risiko eines Ausfalls unserer Backupsysteme zu minimieren.</label>
+            <value>4</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Welche der nachfolgenden Aktivitäten im Bereich der Reaktion auf Vorfälle werden in Ihrer Organisation verfolgt?</text>
+      <text>Aktuell</text>
+      <directive>
+        <position>during</position>
+        <text>Eine Erläuterung ist weiter oben zu finden.</text>
+        <administration>self</administration>
+      </directive>
+      <subQuestion varName="Q13_1">
+        <text>Erkennung</text>
+      </subQuestion>
+      <subQuestion varName="Q13_2">
+        <text>Reaktion</text>
+      </subQuestion>
+      <response>
+        <fixed>
+          <category>
+            <label>Vollständig intern durchgeführt (ohne externe Firmen)</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Mit externer Unterstützung</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Großteils extern vergeben</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Vollständig extern vergeben (ohne interne Mitarbeiter)</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>So etwas machen wir nicht</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>6</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Welche der nachfolgenden Aktivitäten im Bereich der Reaktion auf Vorfälle werden in Ihrer Organisation verfolgt?</text>
+      <text>In den nächsten 5 Jahren</text>
+      <directive>
+        <position>during</position>
+        <text>Eine Erläuterung ist weiter oben zu finden.</text>
+        <administration>self</administration>
+      </directive>
+      <subQuestion varName="Q13_1">
+        <text>Erkennung</text>
+      </subQuestion>
+      <subQuestion varName="Q13_2">
+        <text>Reaktion</text>
+      </subQuestion>
+      <response>
+        <fixed>
+          <category>
+            <label>Vollständig intern durchgeführt (ohne externe Firmen)</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Mit externer Unterstützung</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Großteils extern vergeben</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Vollständig extern vergeben (ohne interne Mitarbeiter)</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>So etwas machen wir nicht</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>6</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Hat Ihre Organisation vor Investitionen in diesen Bereichen zu intensivieren?</text>
+      <subQuestion varName="Q14_1">
+        <text>Erkennung</text>
+      </subQuestion>
+      <subQuestion varName="Q14_2">
+        <text>Reaktion</text>
+      </subQuestion>
+      <response varName="Q14">
+        <fixed>
+          <category>
+            <label>Senkung</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Gleichbleibend</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Steigerung</label>
+            <value>3</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Nutzen Sie für die Lagerung oder die Verarbeitung von sicherheitsrelevanten Daten (z.B. Logdaten) einen externen Dienstleister (unter anderem Cloud- oder SaaS-Lösungen)?</text>
+      <subQuestion varName="Q15_1">
+        <text>Aktuell</text>
+      </subQuestion>
+      <subQuestion varName="Q15_2">
+        <text>In den nächsten 5 Jahren</text>
+      </subQuestion>
+      <response varName="Q15">
+        <fixed>
+          <category>
+            <label>Ja</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Nein</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Weiß ich nicht</label>
+            <value>3</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Wie ist der Zugriff auf sicherheitsrelevante Daten (z.B. Log- und Erkennungsdaten) durch Dienstleister geregelt?</text>
+      <subQuestion varName="Q16_1">
+        <text>Aktuell</text>
+      </subQuestion>
+      <subQuestion varName="Q16_2">
+        <text>In den nächsten 5 Jahren</text>
+      </subQuestion>
+      <response varName="Q16">
+        <fixed>
+          <category>
+            <label>Auf Anfrage über Exports oder vergleichbare Methoden</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Direkter Zugriff nach manueller Freischaltung</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Ständiger Zugriff</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Kein Zugriff</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Weiß ich nicht</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Wie bewertet Ihre Organisation die Wichtigkeit der folgenden Kriterien bei der Auswahl Ihrer Sicherheits-Dienstleister:</text>
+      <subQuestion varName="Q17_1">
+        <text>Der Haupt-Standort befindet sich im selben Land wie unsere Organisation</text>
+      </subQuestion>
+      <subQuestion varName="Q17_2">
+        <text>Zumindest ein Standort im selben Land wie unser Organisation</text>
+      </subQuestion>
+      <subQuestion varName="Q17_3">
+        <text>Das beschäftigte Personal befindet sich im selben Land wie unser Organisation</text>
+      </subQuestion>
+      <subQuestion varName="Q17_4">
+        <text>Das beschäftigte Personal befindet sich in der EU</text>
+      </subQuestion>
+      <subQuestion varName="Q17_5">
+        <text>Organisations-Zertifizierungen (wie z.B. ISO27001)</text>
+      </subQuestion>
+      <subQuestion varName="Q17_6">
+        <text>Personen-Zertifizierungen (wie z.B. GIAC, CISSP, OSCP)</text>
+      </subQuestion>
+      <subQuestion varName="Q17_7">
+        <text>Die Organisation besitzt eine hohe Qualität / einen guten Ruf</text>
+      </subQuestion>
+      <subQuestion varName="Q17_8">
+        <text>Die Dienstleistungen sind kostengünstig</text>
+      </subQuestion>
+      <subQuestion varName="Q17_9">
+        <text>Besonderes Service Level Agreement (Erreichbarkeit und Reaktion z.B. 24/7)</text>
+      </subQuestion>
+      <subQuestion varName="Q17_10">
+        <text>Die Datenverarbeitung findet ausschließlich im selben Land statt</text>
+      </subQuestion>
+      <subQuestion varName="Q17_11">
+        <text>Sämtliches Personal ist sicherheitsüberprüft</text>
+      </subQuestion>
+      <subQuestion varName="Q17_12">
+        <text>Andere (bitte ausführen)</text>
+      </subQuestion>
+      <response varName="Q17">
+        <fixed>
+          <category>
+            <label>Unerheblich</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bevorzugt, kein Ausschlusskriterium</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Erforderlich, Ausschlusskriterium</label>
+            <value>3</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Andere (bitte ausführen):</text>
+      <response varName="Q17EXT">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Wie viele Jahre beschäftigt sich Ihre Organisation schon mit dem Auf- und Ausbau von solchen Systemen?</text>
+      <response varName="Q21">
+        <fixed>
+          <category>
+            <label>&lt; 3</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>4 – 6</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>&gt; 7</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Noch gar nicht</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Keine Angabe</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="13">
+    <sectionInfo>
+      <position>title</position>
+      <text>Ergänzende Fragen</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <sectionInfo>
+      <position>before</position>
+      <text>Nachfolgende Fragen sind optional, helfen uns aber deutlich um die Aussagekraft unserer Umfrage zu steigern.</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Geschlecht</text>
+      <directive>
+        <position>during</position>
+        <text>Dies ist eine Frage-Hilfetext.</text>
+        <administration>self</administration>
+      </directive>
+      <response varName="Q01">
+        <fixed>
+          <category>
+            <label>Männlich</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Weiblich</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Nicht-binär</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Sonstiges</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="Q01other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Ihr höchster Bildungsgrad</text>
+      <response varName="Q03">
+        <fixed>
+          <category>
+            <label>Pflichtschule</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Facheinschlägige Ausbildung</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Matura / Abitur</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Höhere technische Schule (HTL)</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Fachhochschule</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>Universität</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>Universität / Fachhochschule aber nicht abgeschlossen</label>
+            <value>7</value>
+          </category>
+          <category>
+            <label>Sonstiges</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="Q03other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Welche der nachfolgenden Technologien nutzt Ihre Organisation derzeit:</text>
+      <subQuestion varName="Q18_1">
+        <text>EDR/XDR</text>
+      </subQuestion>
+      <subQuestion varName="Q18_2">
+        <text>Anti-Malware</text>
+      </subQuestion>
+      <subQuestion varName="Q18_3">
+        <text>Next Generation Firewall</text>
+      </subQuestion>
+      <subQuestion varName="Q18_4">
+        <text>Firewall</text>
+      </subQuestion>
+      <subQuestion varName="Q18_5">
+        <text>DNS-Blacklisting / DNS-Shield</text>
+      </subQuestion>
+      <subQuestion varName="Q18_6">
+        <text>Security information and event management (SIEM)</text>
+      </subQuestion>
+      <subQuestion varName="Q18_7">
+        <text>Security orchestration, automation and response (SOAR)</text>
+      </subQuestion>
+      <subQuestion varName="Q18_8">
+        <text>Zentrales Logmanagement</text>
+      </subQuestion>
+      <subQuestion varName="Q18_9">
+        <text>Web-Proxy (inkl. TLS)</text>
+      </subQuestion>
+      <subQuestion varName="Q18_10">
+        <text>User and entity behavior analytics (UEBA)</text>
+      </subQuestion>
+      <subQuestion varName="Q18_11">
+        <text>Network Intrusion Detection / Prevention</text>
+      </subQuestion>
+      <subQuestion varName="Q18_12">
+        <text>Host Intrusion Detection / Prevention</text>
+      </subQuestion>
+      <subQuestion varName="Q18_13">
+        <text>Schwachstellenscanner (z.B. Netzwerk, Source-Code, Compliance, CI-CD, …)</text>
+      </subQuestion>
+      <subQuestion varName="Q18_14">
+        <text>Freie Threat Intelligence Feeds / IOC Streams</text>
+      </subQuestion>
+      <subQuestion varName="Q18_15">
+        <text>Kommerzielle Threat Intelligence Feeds / IOC Streams</text>
+      </subQuestion>
+      <subQuestion varName="Q18_16">
+        <text>Andere (bitte ausführen)</text>
+      </subQuestion>
+      <response varName="Q18">
+        <fixed>
+          <category>
+            <label>Ja</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>In Planung</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Innheralb 5 Jahren</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Nein</label>
+            <value>4</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Andere (bitte ausführen):&lt;/p&gt;</text>
+      <response varName="Q18EXT">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Welche Art der Lizenzierung setzt Ihre Organisation bevorzugt ein?</text>
+      <response varName="Q19">
+        <fixed>
+          <category>
+            <label>Open Source / freie Software</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Laufende Zahlungen (z.B. monatlich oder jährlich)</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Einmalige Zahlungen</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Einmalige Zahlungen zusätzlich eines laufenden Support-Vertrags</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Sonstiges</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="Q19other">
+              <text>Sonstiges</text>
+              <length>24</length>
+              <format>longtext</format>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Warum setzt Ihre Organisation diese Lizenzierung ein?</text>
+      <response varName="Q20">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Falls Sie am Gewinnspiel teilnehmen möchten hinterlassen Sie uns bitte eine Kontaktmöglichkeit.</text>
+      <response varName="Q99">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Falls Sie an weiteren Interviews teilnehmen möchten bitte hinterlassen Sie uns eine Kontaktadresse.</text>
+      <response varName="Q100">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label/>
+        </free>
+      </response>
+    </question>
+  </section>
+</questionnaire>

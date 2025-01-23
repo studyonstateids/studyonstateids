@@ -1,0 +1,258 @@
+id;text_de
+1;Wie wichtig schätzen Sie Erkennungs- und Reaktionssysteme ein?
+2;Unwesentlich
+3;Neutral
+4;Wesentlich
+5;Sehr wesentlich
+6;Keine Angabe
+7;Denken Sie der Einsatz eines solchen Systems steigert die Sicherheit?
+8;Durch den Betrieb von Erkennungs- und Reaktionssystemen hat meine Organisation einen Nutzen erwirtschaftet.
+9;Setzen wir nicht ein
+10;Wie würden Sie sich fühlen, wenn eine staatliche Stelle einen solchen Dienst für Ihre Organisation betreibt?
+11;Sehr unsicher
+12;Unsicher
+13;Sicher
+14;Sehr sicher
+15;Wie würden Sie sich fühlen, wenn eine kommerzielle Stelle im staatlichen Auftrag einen solchen Dienst für Ihre Organisation betreibt?
+16;Bitte beschreiben Sie warum:
+17;Ich vertraue einer staatlichen Stelle hinsichtlich
+18;Qualität des Betriebs
+19;Expertise im Bezug auf Cybersicherheit
+20;Einhaltung des Datenschutzes
+21;Einhaltung der vereinbarten Leistungen
+22;Nationale Zusammenarbeit
+23;Internationale Zusammenarbeit
+24;Andere (bitte ausführen)
+25;Kaum
+26;Stark
+27;Vollumfänglich
+28;Wo soll der Betrieb der Erkennungs- und Reaktionssysteme angesiedelt sein:
+29;Auf europäischer / EU Ebene
+30;Staatlich (z.B. BMI)
+31;Private Organisation im Auftrag und unter Kontrolle einer staatlichen Stelle
+32;Verein, oder Verbund (z.B. CERT, Sektor-CERT)
+33;Sonstiges
+34;"Um herauszufinden ob Sie nach wie vor aktiv an der Umfrage teilnehmen, selektieren Sie bitte ""Sehr sicher"":"
+35;Fühlen Sie sich persönlich mehr überwacht, seitdem Ihre Organisation Erkennungs- und Reaktionssysteme einsetzt?
+36;Ja
+37;Nein
+38;Aus welchem Grund denken Sie, könnte der Betrieb einer solchen Lösung von staatlichem Interesse sein?
+39;Eindämmung von Schäden auf die Wirtschaft
+40;Bessere Reaktion im Krisenfall
+41;Aufzeichnungen im kriminalrechtlichen Interesse (Veruntreuung, Korruption, Steuerhinterziehung)
+42;Eindämmung von Spionageaktivitäten
+43;Altersgruppe
+44;< 18
+45;18-25
+46;26-35
+47;36-45
+48;46-55
+49;56-65
+50;> 65
+51;Hat Ihre Ausbildung einen Bezug zu einem oder mehreren der nachfolgenden Bereiche?
+52;Technik
+53;Recht
+54;Informatik
+55;IT-Security
+56;Soziologie
+57;In welchem Land ist Ihre Organisation hauptansässig? (Es handelt sich um eine englische Liste.)
+58;Welche Position haben Sie aktuell in Ihrer derzeitigen Organisation inne?
+59;Geschäftsführung
+60;Mitarbeiter:in mit Entscheidungsbefugnis im Bereich der IT-Sicherheit
+61;Mitarbeiter:in
+62;Wie schätzen Sie ihre Kenntnisse im Bereich von Detektions- und Erkennungssystemen ein?
+63;Keine Kenntnisse
+64;Wenig sachkundig
+65;Durchschnittlich sachkundig
+66;Sachkundig
+67;Experte
+68;Fällt ihre Organisation in einen der folgenden Bereiche?
+69;Kritische Infrastruktur, wesentliche Einrichtungen, Betreiber wesentlicher Dienste
+70;Wichtige Einrichtung nach NIS 2.0
+71;Öffentliche Verwaltung und staatliche Organisationen
+72;Wie viele Personen arbeiten in Ihrer Organisation?
+73;1
+74;2 - 9
+75;10 – 49
+76;50 – 249
+77;> 249
+78;In welcher Branche arbeiten Sie?
+79;Agrarwirtschaft
+80;Bau
+81;Chemie & Rohstoffe
+82;Dienstleistungen & Handwerk
+83;E-Commerce
+84;Energie & Umwelt
+85;Finanzen, Versicherungen & Immobilien
+86;Freizeit
+87;Gesellschaft (Bildung, Forschung, Recht, ...)
+88;Handel
+89;Internet
+90;Konsum & FMCG
+91;Leben
+92;Medien
+93;Metall & Elektronik
+94;Pharma & Gesundheit
+95;Sport & Fitness
+96;Schule
+97;Telekommunikation und IT
+98;Tourismus & Gastronomie
+99;Verkehr & Logistik
+100;Wirtschaft & Politik (Öffentliche Verwaltung, Verteidigung, …)
+101;Würde Ihre Organisation an einem staatlich zur Verfügung gestellten Erkennungs- und Reaktionssystem teilnehmen?
+102;Weiß ich nicht
+103;Welche der folgenden Aktivitäten würde Ihre Organisation beziehen?
+104;Erkennung
+105;Reaktion
+106;Vollständige Durchführung
+107;Unterstützende Aktivitäten
+108;Keine
+109;Bitte beschreiben Sie in eigenen Worten kurz, warum Ihre Organisation diese Dienste beziehen würde:
+110;Was erwartet sich Ihre Organisation von einem solchen System?
+111;Einen besseren inneren Austausch
+112;Einen besseren Überblick über die aktuelle Bedrohungslage in der Branche und Branchenübergreifend
+113;Die zusätzliche externe Expertise
+114;Eine zusätzliche Kommunikationsplattform über welche ein rascher Austausch mit anderer, ebenfalls betroffener Organisation hergestellt werden kann
+115;Zugriff auf kostengünstige Threat Intelligence Feeds
+116;Sonstige (bitte ausführen)
+117;Unerheblich
+118;Wünschenswert
+119;Sehr wichtig
+120;Sonstige (bitte ausführen):
+121;Was wären die Rahmenbedingungen Ihrer Organisation, um teilzunehmen?
+122;Kostenersparnis zum aktuellen System
+123;Feedbackmöglichkeit, sowie das Mitwirken am System
+124;Bessere SLAs als bei der aktuell eingesetzten Lösung
+125;Hohe Systemverfügbarkeit
+126;Hohe System-Performance (z.B. Abdeckung aller Offices, sämtliche Bandbreiten, alle Endgeräte)
+127;Betreiber ist eine staatliche Stelle
+128;Betreiber ist eine private / kommerzielle Stelle
+129;Staatliche Kontrolle des Betreibers
+130;Die Möglichkeit bei Falschmeldungen oder verabsäumten Meldungen Ansprüche gegenüber dem Betreiber zu erheben
+131;Umfangreiche Vorauswertung und dadurch Reduzierung der Last meiner Mitarbeiter
+132;Die Kosten für eine solche Lösung werden überwiegend vom Staat übernommen
+133;Kontrolle über die gesammelten Daten und Kontrolle der Datenauswertung
+134;Erfüllung rechtlicher und vertraglicher Voraussetzungen
+135;Keine Notwendigkeit der Installation von Software auf Geräten bzw. Endpoints
+136;Daten werden nur netzwerkseitig am Netzwerkperimeter (vor der Unternehmens-Firewall) gesammelt
+137;System ist anerkannt und zertifiziert
+138;Daten verlassen unsere Organisation nicht
+139;Anonymisierung personenbezogener Daten
+140;Pseudonymisierung personenbezogener Daten
+141;Transparenz über sämtliche Aktivitäten
+142;Vollständiger Zugriff auf die im eigenen Netzwerk befindlichen Geräte
+143;Regelmäßige Sicherheitsprüfungen durch unabhängige Stellen
+144;Auditrecht (Einsicht auf die Systeme)
+145;Ich kann Soforthilfemaßnahmen vom Betreiber beziehen
+146;Ich kann tiefergehende Analysen vom Betreiber beziehen
+147;Sofortiger Zugriff auf alle Erkennungsdaten
+148;Sonstige (bitte Ausführen)
+149;Bevorzugt, kein Ausschlusskriterium
+150;Erforderlich, Ausschlusskriterium
+151;Würden Sie die oben stehende Frage anders beantworten, wenn es sich um einen Managed SOC Provider (SOC-Dienstleister) handelt?
+152;Was wären potentielle Bedenken / Sicherheitsrisiken:
+153;Zentralisierung von Daten
+154;Verkauf von Daten
+155;Überwachung von Mitarbeitern
+156;Fehlende Transparenz und Dokumentation
+157;Aufbrechen von verschlüsselten Verbindungen
+158;Preisgabe von privater oder schützenswerter Informationen
+159;Schwachstellen und Sicherheitsrisiken der Lösung selbst
+160;Verheimlichen von Informationen (Angriffen) aus staatlichen Interessen
+161;Nicht-Beachtung von vertraglichen Vereinbarungen
+162;Konkurrenz zu kommerziellen Dienstleistern
+163;Offizialprinzip / Naheverhältnis zur Strafverfolgung (die Meldung von strafrechtlich relevanten Ereignissen)
+164;Missbrauch / Korruptionsbedenken / Wirtschaftsspionage über die Einsicht von Daten
+165;Geringe
+166;Hohe
+167;Enorme
+168;Andere (bitte ausführen):
+169;Wo soll die Datenverarbeitung und die Datenlagerung stattfinden?
+170;In unserer Organisation
+171;Beim Betreiber jedoch im selben Land oder innerhalb der EU
+172;Abhängig von datenschutzrechtlichen Bestimmungen
+173;Ist unerheblich
+174;Wie soll der Zugriff auf diese Daten geregelt sein?
+175;Auf Anfrage über Exporte oder vergleichbare Methoden zur Verfügung gestellt
+176;Direkter, zeitlich limitierter Zugriff nach manueller Freischaltung
+177;Ständiger Zugriff, z.B. durch direkten Zugriff auf die Systeme
+178;Kein Zugriff
+179;Beschäftigt sich Ihre Organisation bereits mit Erkennung und Reaktion?
+180;Welche der nachfolgenden Antworten trifft am ehesten für Erkennungs- und Reaktionssysteme in Ihrer Organisation zu?
+181;Wir nutzen diese um Angreifer davon abzuhalten in unsere Systeme einzudringen.
+182;Wir nutzen diese um Angreifer auf unseren Systemen zu erkennen und Schlimmeres zu verhindern.
+183;Wir nutzen diese um frühzeitig mögliche Bedrohungen und Schwachstellen zu erkennen und gegenwirken zu können.
+184;Wir nutzen diese um das Risiko eines Ausfalls unserer Backupsysteme zu minimieren.
+185;Welche der nachfolgenden Aktivitäten im Bereich der Reaktion auf Vorfälle werden in Ihrer Organisation verfolgt? - Aktuell
+186;Vollständig intern durchgeführt (ohne externe Firmen)
+187;Mit externer Unterstützung
+188;Großteils extern vergeben
+189;Vollständig extern vergeben (ohne interne Mitarbeiter)
+190;So etwas machen wir nicht
+191;Welche der nachfolgenden Aktivitäten im Bereich der Reaktion auf Vorfälle werden in Ihrer Organisation verfolgt? - In den nächsten 5 Jahren
+192;Hat Ihre Organisation vor Investitionen in diesen Bereichen zu intensivieren?
+193;Senkung
+194;Gleichbleibend
+195;Steigerung
+196;Nutzen Sie für die Lagerung oder die Verarbeitung von sicherheitsrelevanten Daten (z.B. Logdaten) einen externen Dienstleister (unter anderem Cloud- oder SaaS-Lösungen)?
+197;Aktuell
+198;In den nächsten 5 Jahren
+199;Wie ist der Zugriff auf sicherheitsrelevante Daten (z.B. Log- und Erkennungsdaten) durch Dienstleister geregelt?
+200;Auf Anfrage über Exports oder vergleichbare Methoden
+201;Direkter Zugriff nach manueller Freischaltung
+202;Ständiger Zugriff
+203;Wie bewertet Ihre Organisation die Wichtigkeit der folgenden Kriterien bei der Auswahl Ihrer Sicherheits-Dienstleister:
+204;Der Haupt-Standort befindet sich im selben Land wie unsere Organisation
+205;Zumindest ein Standort im selben Land wie unser Organisation
+206;Das beschäftigte Personal befindet sich im selben Land wie unser Organisation
+207;Das beschäftigte Personal befindet sich in der EU
+208;Organisations-Zertifizierungen (wie z.B. ISO27001)
+209;Personen-Zertifizierungen (wie z.B. GIAC, CISSP, OSCP)
+210;Die Organisation besitzt eine hohe Qualität / einen guten Ruf
+211;Die Dienstleistungen sind kostengünstig
+212;Besonderes Service Level Agreement (Erreichbarkeit und Reaktion z.B. 24/7)
+213;Die Datenverarbeitung findet ausschließlich im selben Land statt
+214;Sämtliches Personal ist sicherheitsüberprüft
+215;Wie viele Jahre beschäftigt sich Ihre Organisation schon mit dem Auf- und Ausbau von solchen Systemen?
+216;< 3
+217;4 – 6
+218;> 7
+219;Noch gar nicht
+220;Geschlecht
+221;Männlich
+222;Weiblich
+223;Nicht-binär
+224;Ihr höchster Bildungsgrad
+225;Pflichtschule
+226;Facheinschlägige Ausbildung
+227;Matura / Abitur
+228;Höhere technische Schule (HTL)
+229;Fachhochschule
+230;Universität
+231;Universität / Fachhochschule aber nicht abgeschlossen
+232;Welche der nachfolgenden Technologien nutzt Ihre Organisation derzeit:
+233;EDR/XDR
+234;Anti-Malware
+235;Next Generation Firewall
+236;Firewall
+237;DNS-Blacklisting / DNS-Shield
+238;Security information and event management (SIEM)
+239;Security orchestration, automation and response (SOAR)
+240;Zentrales Logmanagement
+241;Web-Proxy (inkl. TLS)
+242;User and entity behavior analytics (UEBA)
+243;Network Intrusion Detection / Prevention
+244;Host Intrusion Detection / Prevention
+245;Schwachstellenscanner (z.B. Netzwerk, Source-Code, Compliance, CI-CD, …)
+246;Freie Threat Intelligence Feeds / IOC Streams
+247;Kommerzielle Threat Intelligence Feeds / IOC Streams
+248;In Planung
+249;Innheralb 5 Jahren
+250;Welche Art der Lizenzierung setzt Ihre Organisation bevorzugt ein?
+251;Open Source / freie Software
+252;Laufende Zahlungen (z.B. monatlich oder jährlich)
+253;Einmalige Zahlungen
+254;Einmalige Zahlungen zusätzlich eines laufenden Support-Vertrags
+255;Warum setzt Ihre Organisation diese Lizenzierung ein?
+256;Falls Sie am Gewinnspiel teilnehmen möchten hinterlassen Sie uns bitte eine Kontaktmöglichkeit.
+257;Falls Sie an weiteren Interviews teilnehmen möchten bitte hinterlassen Sie uns eine Kontaktadresse.

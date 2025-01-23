@@ -1,0 +1,258 @@
+id;text_de;text_en
+1;Wie wichtig schätzen Sie Erkennungs- und Reaktionssysteme ein?;How important do you consider detection and response systems?
+2;Unwesentlich;Not significant
+3;Neutral;Neutral
+4;Wesentlich;Significant
+5;Sehr wesentlich;Very significant
+6;Keine Angabe;No response
+7;Denken Sie der Einsatz eines solchen Systems steigert die Sicherheit?;Do you think the use of such a system increases the security of your organization?
+8;Durch den Betrieb von Erkennungs- und Reaktionssystemen hat meine Organisation einen Nutzen erwirtschaftet.;Has the operation of detection and response systems generated benefits for your organization?
+9;Setzen wir nicht ein;We do not use such systems
+10;Wie würden Sie sich fühlen, wenn eine staatliche Stelle einen solchen Dienst für Ihre Organisation betreibt?;How would you feel if a government agency operates such a system for your organization?
+11;Sehr unsicher;Very insecure
+12;Unsicher;Insecure
+13;Sicher;Secure
+14;Sehr sicher;Very secure
+15;Wie würden Sie sich fühlen, wenn eine kommerzielle Stelle im staatlichen Auftrag einen solchen Dienst für Ihre Organisation betreibt?;How would you feel if a commercial agency operated such a service for your organisation on behalf of the government?
+16;Bitte beschreiben Sie warum:;Please describe why:
+17;Ich vertraue einer staatlichen Stelle hinsichtlich;I trust a government agency regarding
+18;Qualität des Betriebs;Quality of operation
+19;Expertise im Bezug auf Cybersicherheit;Expertise in cybersecurity
+20;Einhaltung des Datenschutzes;Compliance with data protection
+21;Einhaltung der vereinbarten Leistungen;Adherence to service level agreements
+22;Nationale Zusammenarbeit;National cooperation
+23;Internationale Zusammenarbeit;International cooperation
+24;Andere (bitte ausführen);Other (please specify):
+25;Kaum;Barely
+26;Stark;Strongly
+27;Vollumfänglich;Fully
+28;Wo soll der Betrieb der Erkennungs- und Reaktionssysteme angesiedelt sein:;Where should the operation of the detection and response systems be based?
+29;Auf europäischer / EU Ebene;At European / EU level
+30;Staatlich (z.B. BMI);Governmental
+31;Private Organisation im Auftrag und unter Kontrolle einer staatlichen Stelle;Private organisation on behalf of and under the control of a government agency
+32;Verein, oder Verbund (z.B. CERT, Sektor-CERT);Association or group (e.g. CERT, sector CERT)
+33;Sonstiges;Other:
+34;"Um herauszufinden ob Sie nach wie vor aktiv an der Umfrage teilnehmen, selektieren Sie bitte ""Sehr sicher"":";"To check if you are still actively participating in the survey, please select ""Very sure""?"
+35;Fühlen Sie sich persönlich mehr überwacht, seitdem Ihre Organisation Erkennungs- und Reaktionssysteme einsetzt?;Do you personally feel more monitored since your organisation started using detection and response systems?
+36;Ja;Yes
+37;Nein;No
+38;Aus welchem Grund denken Sie, könnte der Betrieb einer solchen Lösung von staatlichem Interesse sein?;For what reason do you think the operation of such a solution might be of state interest?
+39;Eindämmung von Schäden auf die Wirtschaft;Containment of damage to the economy
+40;Bessere Reaktion im Krisenfall;Better response in the event of a crisis
+41;Aufzeichnungen im kriminalrechtlichen Interesse (Veruntreuung, Korruption, Steuerhinterziehung);Records in the interest of criminal law (embezzlement, corruption, tax evasion)
+42;Eindämmung von Spionageaktivitäten;Containment of espionage activities
+43;Altersgruppe;Age group
+44;< 18;< 18
+45;18-25;18-25
+46;26-35;26-35
+47;36-45;36-45
+48;46-55;46-55
+49;56-65;56-65
+50;> 65;> 65
+51;Hat Ihre Ausbildung einen Bezug zu einem oder mehreren der nachfolgenden Bereiche?;Does your education relate to one or more of the following areas?
+52;Technik;Technology
+53;Recht;Law
+54;Informatik;Information Technology
+55;IT-Security;IT Security
+56;Soziologie;Sociology
+57;In welchem Land ist Ihre Organisation hauptansässig? (Es handelt sich um eine englische Liste.);In which country is your organization based?
+58;Welche Position haben Sie aktuell in Ihrer derzeitigen Organisation inne?;What position do you currently hold in your current organisation?
+59;Geschäftsführung;Management Board
+60;Mitarbeiter:in mit Entscheidungsbefugnis im Bereich der IT-Sicherheit;Employee with decision-making authority in the area of IT security
+61;Mitarbeiter:in;Employee
+62;Wie schätzen Sie ihre Kenntnisse im Bereich von Detektions- und Erkennungssystemen ein?;How would you rate your knowledge in the area of detect and response systems?
+63;Keine Kenntnisse;No knowledge
+64;Wenig sachkundig;Slightly knowledgeable
+65;Durchschnittlich sachkundig;Average knowledgeable
+66;Sachkundig;Knowledgeable
+67;Experte;Expert
+68;Fällt ihre Organisation in einen der folgenden Bereiche?;Does your organization fall into any of the following categories?
+69;Kritische Infrastruktur, wesentliche Einrichtungen, Betreiber wesentlicher Dienste;Critical infrastructure, essential facilities, operators of essential services
+70;Wichtige Einrichtung nach NIS 2.0;Important organisation according to NIS 2.0
+71;Öffentliche Verwaltung und staatliche Organisationen;Public administration and government organisations
+72;Wie viele Personen arbeiten in Ihrer Organisation?;How many people work in your organisation?
+73;1;1
+74;2 - 9;2 - 9
+75;10 – 49;10 – 49
+76;50 – 249;50 – 249
+77;> 249;> 249
+78;In welcher Branche arbeiten Sie?;In which industry do you work?
+79;Agrarwirtschaft;Agriculture
+80;Bau;Construction
+81;Chemie & Rohstoffe;Chemicals & Raw Materials
+82;Dienstleistungen & Handwerk;Services & Crafts
+83;E-Commerce;E-Commerce
+84;Energie & Umwelt;Energy & Environment
+85;Finanzen, Versicherungen & Immobilien;Finance, Insurance & Real Estate
+86;Freizeit;Recreation
+87;Gesellschaft (Bildung, Forschung, Recht, ...);Society (Education, Research, Law, …)
+88;Handel;Trade
+89;Internet;Internet
+90;Konsum & FMCG;Consumer Goods & FMCG
+91;Leben;Life
+92;Medien;Media
+93;Metall & Elektronik;Metal & Electronics
+94;Pharma & Gesundheit;Pharmaceuticals & Health
+95;Sport & Fitness;Sports & Fitness
+96;Schule;Schools
+97;Telekommunikation und IT;Telecommunications & IT
+98;Tourismus & Gastronomie;Tourism & Gastronomy
+99;Verkehr & Logistik;Transport & Logistics
+100;Wirtschaft & Politik (Öffentliche Verwaltung, Verteidigung, …);Economy & Politics (Public Administration, Defense, ...)
+101;Würde Ihre Organisation an einem staatlich zur Verfügung gestellten Erkennungs- und Reaktionssystem teilnehmen?;Would your organization participate in a government-provided detection and response system?
+102;Weiß ich nicht;Don't know
+103;Welche der folgenden Aktivitäten würde Ihre Organisation beziehen?;Which of the following services would your organization obtain?
+104;Erkennung;Detection
+105;Reaktion;Response
+106;Vollständige Durchführung;Full implementation
+107;Unterstützende Aktivitäten;Supporting activities
+108;Keine;None
+109;Bitte beschreiben Sie in eigenen Worten kurz, warum Ihre Organisation diese Dienste beziehen würde:;Please briefly describe in your own words why your organization would obtain these services:
+110;Was erwartet sich Ihre Organisation von einem solchen System?;What does your organization expect to gain from such a system?
+111;Einen besseren inneren Austausch;A better internal exchange
+112;Einen besseren Überblick über die aktuelle Bedrohungslage in der Branche und Branchenübergreifend;A better overview of the current threat situation in the sector and across sectors
+113;Die zusätzliche externe Expertise;Additional external expertise
+114;Eine zusätzliche Kommunikationsplattform über welche ein rascher Austausch mit anderer, ebenfalls betroffener Organisation hergestellt werden kann;An additional communication platform for rapid exchange with other affected organizations
+115;Zugriff auf kostengünstige Threat Intelligence Feeds;Access to cost-effective threat intelligence feeds
+116;Sonstige (bitte ausführen);Other (please specify):
+117;Unerheblich;Irrelevant
+118;Wünschenswert;Desirable
+119;Sehr wichtig;Very important
+120;Sonstige (bitte ausführen):;Other (please specify):
+121;Was wären die Rahmenbedingungen Ihrer Organisation, um teilzunehmen?;What would be the requirements for your organization to participate?
+122;Kostenersparnis zum aktuellen System;Cost savings compared to the current system
+123;Feedbackmöglichkeit, sowie das Mitwirken am System;Opportunity to provide feedback and contribute to the system
+124;Bessere SLAs als bei der aktuell eingesetzten Lösung;Better SLAs than with the solution currently in use
+125;Hohe Systemverfügbarkeit;High system availability
+126;Hohe System-Performance (z.B. Abdeckung aller Offices, sämtliche Bandbreiten, alle Endgeräte);High system performance (e.g. coverage of all offices, all bandwidths, all end devices)
+127;Betreiber ist eine staatliche Stelle;Operator is a government agency
+128;Betreiber ist eine private / kommerzielle Stelle;Operator is a private / commercial entity
+129;Staatliche Kontrolle des Betreibers;State control of the operator
+130;Die Möglichkeit bei Falschmeldungen oder verabsäumten Meldungen Ansprüche gegenüber dem Betreiber zu erheben;Ability to make claims against the operator in the event of false reports or missed reports
+131;Umfangreiche Vorauswertung und dadurch Reduzierung der Last meiner Mitarbeiter;Comprehensive pre-analysis and thus reduction of the workload of my employees
+132;Die Kosten für eine solche Lösung werden überwiegend vom Staat übernommen;The costs of such a solution are mainly covered by the state
+133;Kontrolle über die gesammelten Daten und Kontrolle der Datenauswertung;Control over the collected data and control of data analysis
+134;Erfüllung rechtlicher und vertraglicher Voraussetzungen;Compliance with legal and contractual requirements
+135;Keine Notwendigkeit der Installation von Software auf Geräten bzw. Endpoints;There is no need to install software on devices or endpoints
+136;Daten werden nur netzwerkseitig am Netzwerkperimeter (vor der Unternehmens-Firewall) gesammelt;Data is only collected on the network side at the network perimeter (in front of the company firewall)
+137;System ist anerkannt und zertifiziert;System is recognized and certified
+138;Daten verlassen unsere Organisation nicht;Data does not leave our organization
+139;Anonymisierung personenbezogener Daten;Anonymization of personal data
+140;Pseudonymisierung personenbezogener Daten;Pseudonymization of personal data
+141;Transparenz über sämtliche Aktivitäten;Transparency of all activities
+142;Vollständiger Zugriff auf die im eigenen Netzwerk befindlichen Geräte;Full access to the devices that are deployed in your network
+143;Regelmäßige Sicherheitsprüfungen durch unabhängige Stellen;Regular security checks by independent bodies
+144;Auditrecht (Einsicht auf die Systeme);Audit rights (access to the systems)
+145;Ich kann Soforthilfemaßnahmen vom Betreiber beziehen;Ability to receive immediate assistance from the operator
+146;Ich kann tiefergehende Analysen vom Betreiber beziehen;Ability to receive in-depth analysis from the operator
+147;Sofortiger Zugriff auf alle Erkennungsdaten;Immediate access to all detection data
+148;Sonstige (bitte Ausführen);Other (please specify):
+149;Bevorzugt, kein Ausschlusskriterium;Preferred, not an exclusion criterion
+150;Erforderlich, Ausschlusskriterium;Required, exclusion criterion
+151;Würden Sie die oben stehende Frage anders beantworten, wenn es sich um einen Managed SOC Provider (SOC-Dienstleister) handelt?;Would you answer the above question differently if it were a managed SOC provider (SOC service provider)?
+152;Was wären potentielle Bedenken / Sicherheitsrisiken:;What would be potential concerns / security risks?
+153;Zentralisierung von Daten;Centralization of data
+154;Verkauf von Daten;Sale of data
+155;Überwachung von Mitarbeitern;Monitoring of employees
+156;Fehlende Transparenz und Dokumentation;Lack of transparency and documentation
+157;Aufbrechen von verschlüsselten Verbindungen;Breaking encrypted connections
+158;Preisgabe von privater oder schützenswerter Informationen;Exposure of private or sensitive information
+159;Schwachstellen und Sicherheitsrisiken der Lösung selbst;Vulnerabilities and security risks of the solution itself
+160;Verheimlichen von Informationen (Angriffen) aus staatlichen Interessen;Concealment of information (attacks) for state interests
+161;Nicht-Beachtung von vertraglichen Vereinbarungen;Non-compliance with contractual agreements
+162;Konkurrenz zu kommerziellen Dienstleistern;Competition with commercial service providers
+163;Offizialprinzip / Naheverhältnis zur Strafverfolgung (die Meldung von strafrechtlich relevanten Ereignissen);Official principle / close relationship with law enforcement (reporting of criminally relevant events)
+164;Missbrauch / Korruptionsbedenken / Wirtschaftsspionage über die Einsicht von Daten;Abuse, corruption concerns, economic espionage through data access
+165;Geringe;Low
+166;Hohe;High
+167;Enorme;Enormous
+168;Andere (bitte ausführen):;Other (please specify):
+169;Wo soll die Datenverarbeitung und die Datenlagerung stattfinden?;Where should data processing and data storage take place?
+170;In unserer Organisation;In our organization
+171;Beim Betreiber jedoch im selben Land oder innerhalb der EU;At the operator but in the same country or within the EU
+172;Abhängig von datenschutzrechtlichen Bestimmungen;Depending on data protection regulations
+173;Ist unerheblich;Is not relevant
+174;Wie soll der Zugriff auf diese Daten geregelt sein?;How should access to this data be regulated?
+175;Auf Anfrage über Exporte oder vergleichbare Methoden zur Verfügung gestellt;Made available on request via exports or comparable methods
+176;Direkter, zeitlich limitierter Zugriff nach manueller Freischaltung;Direct, time-limited access after manual activation
+177;Ständiger Zugriff, z.B. durch direkten Zugriff auf die Systeme;Permanent access, e.g. through direct access to the systems
+178;Kein Zugriff;No access
+179;Beschäftigt sich Ihre Organisation bereits mit Erkennung und Reaktion?;Does your organization already deal with detection and response?
+180;Welche der nachfolgenden Antworten trifft am ehesten für Erkennungs- und Reaktionssysteme in Ihrer Organisation zu?;Which of the following answers is most likely to apply to detection and response systems in your organization?
+181;Wir nutzen diese um Angreifer davon abzuhalten in unsere Systeme einzudringen.;We use them to prevent attackers from penetrating our systems.
+182;Wir nutzen diese um Angreifer auf unseren Systemen zu erkennen und Schlimmeres zu verhindern.;We use them to detect attackers on our systems and prevent worse.
+183;Wir nutzen diese um frühzeitig mögliche Bedrohungen und Schwachstellen zu erkennen und gegenwirken zu können.;We use them to identify potential threats and vulnerabilities at an early stage and counteract them.
+184;Wir nutzen diese um das Risiko eines Ausfalls unserer Backupsysteme zu minimieren.;We use them to minimize the risk of our backup systems failing.
+185;Welche der nachfolgenden Aktivitäten im Bereich der Reaktion auf Vorfälle werden in Ihrer Organisation verfolgt? - Aktuell;Which of the following incident response activities are being pursued in your organization? - Current
+186;Vollständig intern durchgeführt (ohne externe Firmen);Performed entirely internally (without external companies)
+187;Mit externer Unterstützung;With external support
+188;Großteils extern vergeben;Largely outsourced
+189;Vollständig extern vergeben (ohne interne Mitarbeiter);Fully outsourced (excluding internal staff)
+190;So etwas machen wir nicht;We don't do that
+191;Welche der nachfolgenden Aktivitäten im Bereich der Reaktion auf Vorfälle werden in Ihrer Organisation verfolgt? - In den nächsten 5 Jahren;Which of the following incident response activities are being pursued in your organization? - In the next 5 years
+192;Hat Ihre Organisation vor Investitionen in diesen Bereichen zu intensivieren?;Does your organization plan to increase investment in these areas?
+193;Senkung;Decrease
+194;Gleichbleibend;Remain the same
+195;Steigerung;Increase
+196;Nutzen Sie für die Lagerung oder die Verarbeitung von sicherheitsrelevanten Daten (z.B. Logdaten) einen externen Dienstleister (unter anderem Cloud- oder SaaS-Lösungen)?;Do you use an external service provider (including cloud or SaaS solutions) for the storage or processing of security-relevant data (e.g. log data)?
+197;Aktuell;Currently
+198;In den nächsten 5 Jahren;In the next 5 years
+199;Wie ist der Zugriff auf sicherheitsrelevante Daten (z.B. Log- und Erkennungsdaten) durch Dienstleister geregelt?;How is access to security-relevant data (e.g. log and detection data) by service providers regulated?
+200;Auf Anfrage über Exports oder vergleichbare Methoden;On request via exports or comparable methods
+201;Direkter Zugriff nach manueller Freischaltung;Direct access after manual activation
+202;Ständiger Zugriff;Permanent access
+203;Wie bewertet Ihre Organisation die Wichtigkeit der folgenden Kriterien bei der Auswahl Ihrer Sicherheits-Dienstleister:;How does your organization rate the importance of the following criteria when selecting your security service providers?
+204;Der Haupt-Standort befindet sich im selben Land wie unsere Organisation;Head office location is in the same country as our organization
+205;Zumindest ein Standort im selben Land wie unser Organisation;At least one location in the same country as our organization
+206;Das beschäftigte Personal befindet sich im selben Land wie unser Organisation;The employed staff is in the same country as our organization
+207;Das beschäftigte Personal befindet sich in der EU;The employed staff is in the EU
+208;Organisations-Zertifizierungen (wie z.B. ISO27001);Organizational certifications (such as ISO27001)
+209;Personen-Zertifizierungen (wie z.B. GIAC, CISSP, OSCP);Personal certifications (such as GIAC, CISSP, OSCP)
+210;Die Organisation besitzt eine hohe Qualität / einen guten Ruf;The organization has a high quality / good reputation
+211;Die Dienstleistungen sind kostengünstig;The services are cost-effective
+212;Besonderes Service Level Agreement (Erreichbarkeit und Reaktion z.B. 24/7);Special service level agreement (availability and response, e.g. 24/7)
+213;Die Datenverarbeitung findet ausschließlich im selben Land statt;Data processing takes place exclusively in the same country
+214;Sämtliches Personal ist sicherheitsüberprüft;All personnel are security-checked
+215;Wie viele Jahre beschäftigt sich Ihre Organisation schon mit dem Auf- und Ausbau von solchen Systemen?;How many years has your organization been involved in the implementation and enhancement of such systems?
+216;< 3;< 3
+217;4 – 6;4 – 6
+218;> 7;> 7
+219;Noch gar nicht;Not yet
+220;Geschlecht;Gender
+221;Männlich;Male
+222;Weiblich;Female
+223;Nicht-binär;Non-binary
+224;Ihr höchster Bildungsgrad;Your highest level of education
+225;Pflichtschule;Compulsory school
+226;Facheinschlägige Ausbildung;Relevant training
+227;Matura / Abitur;High school diploma
+228;Höhere technische Schule (HTL);Higher technical school (e.g. Associate Degrees at a Community College)
+229;Fachhochschule;University of Applied Sciences
+230;Universität;University
+231;Universität / Fachhochschule aber nicht abgeschlossen;University / university of applied sciences but not completed
+232;Welche der nachfolgenden Technologien nutzt Ihre Organisation derzeit:;Which of the following technologies does your organization currently use?
+233;EDR/XDR;EDR/XDR
+234;Anti-Malware;Anti-Malware
+235;Next Generation Firewall;Next Generation Firewall
+236;Firewall;Firewall
+237;DNS-Blacklisting / DNS-Shield;DNS-Blacklisting / DNS-Shield
+238;Security information and event management (SIEM);Security information and event management (SIEM)
+239;Security orchestration, automation and response (SOAR);Security orchestration, automation and response (SOAR)
+240;Zentrales Logmanagement;Central log management
+241;Web-Proxy (inkl. TLS);Web proxy (incl. TLS)
+242;User and entity behavior analytics (UEBA);User and entity behavior analytics (UEBA)
+243;Network Intrusion Detection / Prevention;Network Intrusion Detection / Prevention
+244;Host Intrusion Detection / Prevention;Host Intrusion Detection / Prevention
+245;Schwachstellenscanner (z.B. Netzwerk, Source-Code, Compliance, CI-CD, …);Vulnerability scanner (e.g. network, source code, compliance, CI-CD, ...)
+246;Freie Threat Intelligence Feeds / IOC Streams;Free threat intelligence feeds / IOC streams
+247;Kommerzielle Threat Intelligence Feeds / IOC Streams;Commercial threat intelligence feeds / IOC streams
+248;In Planung;In planning
+249;Innheralb 5 Jahren;Within 5 years
+250;Welche Art der Lizenzierung setzt Ihre Organisation bevorzugt ein?;What type of licensing does your organization prefer to use?
+251;Open Source / freie Software;Open source / free software
+252;Laufende Zahlungen (z.B. monatlich oder jährlich);Ongoing payments (e.g. monthly or annually)
+253;Einmalige Zahlungen;One-time payments
+254;Einmalige Zahlungen zusätzlich eines laufenden Support-Vertrags;One-off payments in addition to an ongoing support contract
+255;Warum setzt Ihre Organisation diese Lizenzierung ein?;Why does your organization use this type of licensing? Please elaborate:
+256;Falls Sie am Gewinnspiel teilnehmen möchten hinterlassen Sie uns bitte eine Kontaktmöglichkeit.;If you would like to take part in the giveaway, please leave us a contact option.
+257;Falls Sie an weiteren Interviews teilnehmen möchten bitte hinterlassen Sie uns eine Kontaktadresse.;If you would like to take part in further interviews, please leave us a contact address.
