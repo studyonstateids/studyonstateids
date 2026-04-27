@@ -1,9 +1,9 @@
 id;text_de;text_en
 1;Wie wichtig schätzen Sie Erkennungs- und Reaktionssysteme ein?;How important do you consider detection and response systems?
-2;Unwesentlich;Not significant
+2;Unwesentlich;Not important
 3;Neutral;Neutral
-4;Wesentlich;Significant
-5;Sehr wesentlich;Very significant
+4;Wesentlich;Important
+5;Sehr wesentlich;Very important
 6;Keine Angabe;No response
 7;Denken Sie der Einsatz eines solchen Systems steigert die Sicherheit?;Do you think the use of such a system increases the security of your organization?
 8;Durch den Betrieb von Erkennungs- und Reaktionssystemen hat meine Organisation einen Nutzen erwirtschaftet.;Has the operation of detection and response systems generated benefits for your organization?
